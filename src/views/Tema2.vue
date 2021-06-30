@@ -65,35 +65,21 @@
     p.mb-4(style="font-size:20px;") #[strong ¿Por qué realizar un programa de inbound marketing?]
 
     .row.justify-content-center
-      .col-lg-7.align-self-center
-        .row
-          .col-lg-12
-            .tarjeta-avatar-b.mb-3
-              img(src='@/assets/curso/tema2/icon1.svg' alt='AvatarTop').align-self-start.mt-3
-              .tarjeta(style="border-bottom:1px solid #e8e8e8;border-radius: 0;")
-                .p-4
-                  p Atrae al mercado potencial interesado en el producto o servicio, sin gastar energía en impactos que no llegan al target específico.
+      .col-lg-6.align-self-center
+        ul.lista-ul--color.lista-ul--separador
+          li.mb-4
+            img(src='@/assets/curso/tema2/icon4.svg' alt='AvatarTop', style="width:60px")
+            p.mb-4.ms-4.mt-2 Atrae al mercado potencial interesado en el producto o servicio, sin gastar energía en impactos que no llegan al target específico.
+          li.mb-4
+            img(src='@/assets/curso/tema2/icon4.svg' alt='AvatarTop', style="width:60px")
+            p.mb-4.ms-4.mt-2 Incrementa el número de registros en el sitio web y seguidores efectivos en las redes sociales, así como la base de datos para el desarrollo de estrategias.
+          li.mb-5
+            img(src='@/assets/curso/tema2/icon4.svg' alt='AvatarTop', style="width:60px")
+            p.mb-4.ms-4.mt-3 Permite un aumento en el número de visitas al sitio web y en los leads.
+          li.mb-4
+            img(src='@/assets/curso/tema2/icon4.svg' alt='AvatarTop', style="width:60px")
+            p.mb-4.ms-4.mt-2 Es apto para empresas de todas las actividades económicas, las que tienen estrategias dirigidas a otras empresas (B2B) implica un mayor número de registros en el sitio web, mientras que las empresas que se enfocan en el consumidor final (B2C) permite un aumento en el volumen de ventas.
             
-          .col-lg-12
-            .tarjeta-avatar-b.mb-3
-              img(src='@/assets/curso/tema2/icon2.svg' alt='AvatarTop').align-self-start.mt-3
-              .tarjeta(style="border-bottom:1px solid #e8e8e8;border-radius: 0;")
-                .p-4
-                  p Incrementa el número de registros en el sitio web y seguidores efectivos en las redes sociales, así como la base de datos para el desarrollo de estrategias.
-          
-          .col-lg-12
-            .tarjeta-avatar-b.mb-3
-              img(src='@/assets/curso/tema2/icon3.svg' alt='AvatarTop').align-self-start.mt-2
-              .tarjeta(style="border-bottom:1px solid #e8e8e8;border-radius: 0;")
-                .p-4
-                  p Permite un aumento en el número de visitas al sitio web y en los leads.
-
-          .col-lg-12
-            .tarjeta-avatar-b.mb-3
-              img(src='@/assets/curso/tema2/icon4.svg' alt='AvatarTop').align-self-start.mt-4
-              .tarjeta
-                .p-4
-                  p Es apto para empresas de todas las actividades económicas, las que tienen estrategias dirigidas a otras empresas (B2B) implica un mayor número de registros en el sitio web, mientras que las empresas que se enfocan en el consumidor final (B2C) permite un aumento en el volumen de ventas.
       .col-lg-5
         figure
           img(src='@/assets/curso/tema2/img2.svg' alt='¿Por qué realizar un programa de inbound marketing?', style="width:400px;").mx-auto
