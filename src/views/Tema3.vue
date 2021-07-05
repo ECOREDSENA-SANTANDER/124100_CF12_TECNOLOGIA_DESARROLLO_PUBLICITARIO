@@ -39,14 +39,14 @@
             figure
               img(src='@/assets/curso/tema3/img4.svg', alt='Texto que describa la imagen').mx-auto
           .col-md-6.mb-4.mb-md-0
-            p es una aplicación de mensajería instantánea creada por Evan Spiegel en 2011 como proyecto para una clase en la universidad. Facebook realizó una oferta de 3000 millones de dólares en 2013 pero esta no fue aceptada. En 2017 superó los 160 millones de usuarios activos diarios. Snapchat permite enviar fotos y vídeos, pero a diferencia de otros chats el periodo de vida de lo enviado es muy corto. Al sacar una foto o un vídeo hay dos opciones:
+            p Es una aplicación de mensajería instantánea creada por Evan Spiegel en 2011 como proyecto para una clase en la universidad. Facebook realizó una oferta de 3000 millones de dólares en 2013 pero esta no fue aceptada. En 2017 superó los 160 millones de usuarios activos diarios. Snapchat permite enviar fotos y videos, pero a diferencia de otros chats el periodo de vida de lo enviado es muy corto. Al sacar una foto o un video hay dos opciones:
             ul.lista-ul
               li 
                 i.fas.fa-hand-point-right
                 p.mb-0 #[strong Guardarlo como historia:] estará visible durante 24 horas y se puede decidir quién lo puede ver.
               li 
                 i.fas.fa-hand-point-right
-                p.mb-0 #[strong Enviarlo como un mensaje privado:] en este caso la foto o el vídeo solo durará unos segundos antes de ser eliminado.
+                p.mb-0 #[strong Enviarlo como un mensaje privado:] en este caso la foto o el video solo durará unos segundos antes de ser eliminado.
 
       .py-4.py-md-5(titulo="Twitter" :icono="require('@/assets/curso/tema3/icon5.svg')")
         .row.justify-content-center

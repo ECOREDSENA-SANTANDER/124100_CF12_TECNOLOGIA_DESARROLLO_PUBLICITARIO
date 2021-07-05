@@ -29,7 +29,10 @@
     separador
 
     #t_2_2.titulo-segundo
-      .h2 2.2 Video Motion
+      .h2 2.2 Etapas del inbound marketing
+
+    p.mb-4 El proceso de inbound implica el desarrollo de una serie de pasos que permiten que el posible cliente llegue a la empresa de forma natural y por sus propias decisiones; en otras palabras, el inbound es la versión actual del proceso de venta de un producto o servicio con componentes adicionales que permiten tener al cliente cautivo, incluso después de la primera venta. 
+    p.mb-4 Las etapas del inbound son las siguientes:
 
     .row.justify-content-center
       .col-lg-10
@@ -44,13 +47,13 @@
             
             .col-lg-12
               h3 Convertir
-              p Cuando se ha logrado el propósito de llevar al mercado al sitio web e interesarse por la marca y los contenidos generados, es momento de realizar un registro en las bases de datos de la empresa, para obtener este tipo de datos es necesario ofrecer algo a cambio a los clientes, como contenidos más complejos, participación en sorteos, descuentos especiales en productos o servicios, entre otras estrategias.
+              p Cuando se ha logrado el propósito de llevar al mercado al sitio web e interesarse por la marca y los contenidos generados, es momento de realizar un registro en las bases de datos de la empresa. Para obtener este tipo de datos es necesario ofrecer algo a cambio a los clientes, como contenidos más complejos, participación en sorteos, descuentos especiales en productos o servicios, entre otras estrategias.
               
 
           .row
             .col-lg-12.mb-4.mb-md-0
               h3 Seguir
-              p En este punto es necesario conocer el nivel de interés de cada miembro del mercado en el producto o servicio, para ello es necesario hacer algunos análisis y acciones; con el lead scoring se puede calificar a cada cliente en cuanto a su interés por finalizar el proceso de compra; con el e-mail marketing se puede llegar a los clientes de forma automática con información de la empresa que refuerce aquella que ya se ha entregado; el retargeting permite seguir haciendo presencia en la web del cliente, a través de anuncios indexados en otros sitios que esté visita para reforzar la comunicación en torno a la marca.
+              p En este punto es necesario conocer el nivel de interés de cada miembro del mercado en el producto o servicio, para ello es necesario hacer algunos análisis y acciones; con el lead scoring se puede calificar a cada cliente en cuanto a su interés por finalizar el proceso de compra; con el e-mail marketing se puede llegar a los clientes de forma automática con información de la empresa que refuerce aquella que ya se ha entregado; el retargeting permite seguir haciendo presencia en la web del cliente, a través de anuncios indexados en otros sitios que este visita para reforzar la comunicación en torno a la marca.
 
           .row
             .col-lg-12.mb-4.mb-md-0
@@ -78,7 +81,7 @@
             p.mb-4.ms-4.mt-3 Permite un aumento en el número de visitas al sitio web y en los leads.
           li.mb-4
             img(src='@/assets/curso/tema2/icon4.svg' alt='AvatarTop', style="width:60px")
-            p.mb-4.ms-4.mt-2 Es apto para empresas de todas las actividades económicas, las que tienen estrategias dirigidas a otras empresas (B2B) implica un mayor número de registros en el sitio web, mientras que las empresas que se enfocan en el consumidor final (B2C) permite un aumento en el volumen de ventas.
+            p.mb-4.ms-4.mt-2 Es apto para empresas de todas las actividades económicas, las que tienen estrategias dirigidas a otras empresas (B2B) implica un mayor número de registros en el sitio web, mientras que las empresas que se enfocan en el consumidor final (B2C) permiten un aumento en el volumen de ventas.
             
       .col-lg-5
         figure

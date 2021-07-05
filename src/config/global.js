@@ -251,7 +251,7 @@ export default {
     {
       termino: 'Audiovisual',
       significado:
-        '“significa la integración e interrelación plena entre lo auditivo y lo visual para producir una nueva realidad o lenguaje. La percepción es simultánea. Se crean así nuevas realidades sensoriales mediante mecanismos como la armonía, complementaria, refuerzo y contraste” (Vega, s.f.).',
+        '“significa la integración e interrelación plena entre lo auditivo y lo visual para producir una nueva realidad o lenguaje. La percepción es simultánea. Se crean así nuevas realidades sensoriales mediante mecanismos como la armonía complementaria, refuerzo y contraste” (Vega, s.f.).',
     },
     {
       termino: 'Efecto lomográfico',
@@ -271,7 +271,7 @@ export default {
     {
       termino: 'Instagram',
       significado:
-        'es una aplicación y red social de origen estadounidense, propiedad de Facebook, cuya función principal es poder compartir fotografías y vídeos con otros usuarios. Está disponible para dispositivos Android, iOS y Windows 10. Creada por Kevin Systrom y Mike Krieger, Instagram fue lanzada en octubre de 2010.',
+        'es una aplicación y red social de origen estadounidense, propiedad de Facebook, cuya función principal es poder compartir fotografías y videos con otros usuarios. Está disponible para dispositivos Android, iOS y Windows 10. Creada por Kevin Systrom y Mike Krieger, Instagram fue lanzada en octubre de 2010.',
     },
     {
       termino: 'Paleta de colores',
@@ -292,7 +292,7 @@ export default {
   complementario: [
     {
       texto:
-        'Branch. (2020). Estadísticas de la situación digital de Colombia en el 2019 y 2020',
+        'Branch. (2020). Estadísticas de la situación digital de Colombia en el 2019 y 2020.',
       tipo: 'Página web',
       link:
         'https://branch.com.co/marketing-digital/estadisticas-de-la-situacion-digital-de-colombia-en-el-2019-y-2020/',
@@ -309,7 +309,7 @@ export default {
     },
     {
       texto:
-        'Google. (2020). planeación previa de las palabras claves que se pueden utilizar en una campaña de Adwords.',
+        'Google. (2020). Planeación previa de las palabras claves que se pueden utilizar en una campaña de Adwords.',
       tipo: 'Página web',
       link: 'https://ads.google.com/home/',
     },
@@ -374,19 +374,55 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
+        nombre: 'Carlos Eduardo Garavito Parada',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'José Jaime Luis Tang Pinzón',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'María Camila Ovalle Ospina',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
         nombre: 'John Andres Ayala Angarita',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

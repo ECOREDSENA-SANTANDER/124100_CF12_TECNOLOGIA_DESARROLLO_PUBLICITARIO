@@ -7,7 +7,9 @@
         span 4
       h1 Publicidad en medios digitales
     
-    p.mb-4 El mundo de hoy tiene un aliado indiscutible y se llama “conectividad”. Un alto porcentaje de las personas, empresas y hogares, se encuentran conectados y derivan sus operaciones a las aplicaciones, maquinaria y programas que dependen de forma casi exclusiva a la conectividad. Es indispensable entender porque la publicidad de hoy debe basar sus operaciones en los medios digitales.
+    p.mb-4 El mundo de hoy tiene un aliado indiscutible y se llama “conectividad”. Un alto porcentaje de las personas, empresas y hogares, se encuentran conectados y derivan sus operaciones a las aplicaciones, maquinaria y programas que dependen de forma casi exclusiva a la conectividad. Es indispensable entender porqué la publicidad de hoy debe basar sus operaciones en los medios digitales.
+
+    separador
 
     #t_4_1.titulo-segundo
       .h2 4.1 Estadísticas
@@ -45,7 +47,7 @@
           .tarjeta.color-secundario
             .p-4
               h3.text-center Segmentación
-              p.text-center Ésta es tal vez la mayor ventaja de este sistema de promoción, gracias al conocimiento profundo de la audiencia y la cantidad de información que se tiene de ella. Si se ha realizado un trabajo previo de perfilamiento del mercado desde el punto de vista demográfico y psicográfico es posible en Facebook realizar una segmentación muy precisa del mercado objetivo.
+              p.text-center Esta es tal vez la mayor ventaja de este sistema de promoción, gracias al conocimiento profundo de la audiencia y la cantidad de información que se tiene de ella. Si se ha realizado un trabajo previo de perfilamiento del mercado desde el punto de vista demográfico y psicográfico es posible en Facebook realizar una segmentación muy precisa del mercado objetivo.
       
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -80,24 +82,24 @@
               h3.text-center Análisis
               p.mb-5.text-center Las estadísticas y la segmentación que genera Facebook permite la toma de decisiones con el mínimo de riesgo en el desarrollo de las estrategias de comunicación.
 
-    .tarjeta.p-4.p-md-5.mb-5(style="background-color: #d2e1f17d; border-radius: 0;")
+    .tarjeta.p-4.p-md-5(style="background-color: #d2e1f17d; border-radius: 0;margin-bottom:60px;")
       .row.justify-content-around.align-items-center
         .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
           img(src="@/assets/curso/tema4/img2.svg", alt="Tipos de campañas en Facebook", style="width:300px;").mx-auto
         .col-md.col-lg-6
           .titulo-segundo.mb-4
             h3 Tipos de campañas en Facebook
-          p.mb-4 En Facebook se pueden desarrollar diferentes tipos de campañas o estrategias de comunicación que van desde una campaña en la que se estructura un plan completo, un grupo de anuncios o un único anuncio. Sin embargo, Facebook permite a sus usuarios el desarrollo de una gama de campañas pensadas para satisfacer diferentes necesidades:
+          p.mb-4 En Facebook se pueden desarrollar diferentes tipos de campañas o estrategias de comunicación que van desde una campaña en la que se estructura un plan completo, un grupo de anuncios o un único anuncio. Sin embargo, Facebook permite a sus usuarios el desarrollo de una gama de campañas pensadas para satisfacer diferentes necesidades.
           a.boton.color-acento-botones(:href="obtenerLink('/downloads/infografía_autenticación.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 
 
     .h3.mb-4 Segmentación de audiencias en Facebook
-    p.mb-4 No sobra recordar que el desarrollo de una estrategia de comunicación efectiva parte de un perfilamiento muy profundo de los clientes, con base en características demográficas y psicográficas. Antes del desarrollo de una campaña en Facebook es necesario realizar un arquetipo de cliente muy bien estructurado que permita realizar en la plataforma una segmentación más acertada y efectiva. La caracterización que realiza la red social contiene las siguientes variables:
+    p.mb-5 No sobra recordar que el desarrollo de una estrategia de comunicación efectiva parte de un perfilamiento muy profundo de los clientes, con base en características demográficas y psicográficas. Antes del desarrollo de una campaña en Facebook es necesario realizar un arquetipo de cliente muy bien estructurado que permita realizar en la plataforma una segmentación más acertada y efectiva. La caracterización que realiza la red social contiene las siguientes variables:
 
-    .row.justify-content-center
-      .col-lg-7
+    .row.justify-content-center.mb-5
+      .col-lg-7.align-self-center
         ul.lista-ul
           li 
             i.fas.fa-hand-point-right
@@ -125,9 +127,6 @@
             p.mb-0 #[strong Intereses:] es tal vez uno de los datos más relevantes y efectivos en el desarrollo de una estrategia de comunicación. Esta permite segmentar entre un listado muy amplio de posibilidades de interés y aficiones de los usuarios de Facebook: cine, libros, series, deportes, juegos, equipos de fútbol y otros deportes, entre muchos.
           li 
             i.fas.fa-hand-point-right
-            p.mb-0 #[strong Comportamientos:] es tal vez uno de los datos más relevantes y efectivos en el desarrollo de una estrategia de comunicación. Esta permite segmentar entre un listado muy amplio de posibilidades de interés y aficiones de los usuarios de Facebook: cine, libros, series, deportes, juegos, equipos de fútbol y otros deportes, entre muchos.
-          li 
-            i.fas.fa-hand-point-right
             p.mb-0 #[strong Comportamientos:] en este punto se pueden segmentar los usuarios por actividades relacionadas con la tecnología, personas que debieron salir del país o por eventos actuales. Es una característica poco usual en Colombia.
           li 
             i.fas.fa-hand-point-right
@@ -140,11 +139,11 @@
             i.fas.fa-hand-point-right
             p.mb-0 #[strong Conexiones:] permite segmentar con base en la relación de los usuarios con la fanpage, permite excluir o incluir seguidores y amigos.
           
-      .col-lg-4
+      .col-lg-4.align-self-center
+        figure.mb-4
+          img(src="@/assets/curso/tema4/img3.svg", alt="Tipos de campañas en Facebook", style="width:350px;").mx-auto
         figure.mb-5
-          img(src="@/assets/curso/tema4/img3.svg", alt="Tipos de campañas en Facebook", style="width:400px;").mx-auto
-        figure.mb-5
-          img(src="@/assets/curso/tema4/img4.svg", alt="Tipos de campañas en Facebook", style="width:400px;").mx-auto
+          img(src="@/assets/curso/tema4/img4.svg", alt="Tipos de campañas en Facebook", style="width:350px;").mx-auto
 
 
     .h3.mb-4 Costo de la campaña
@@ -190,7 +189,7 @@
             figure
               img(src="@/assets/curso/tema4/img6.svg", alt="imagen que acompaña", style='width:96px;').mx-auto
           .col-lg-10.p-0.align-self-center
-            p.mb-0.p-4 #[strong 20% máximo de texto:] en los anuncios de Facebook deben predominar las imágenes, por ello el texto no debe ocupar más del 20% del total. En el siguiente enlace se puede medir esta proporción: 
+            p.mb-0.p-4 #[strong 20% máximo de texto:] en los anuncios de Facebook deben predominar las imágenes, por ello el texto no debe ocupar más del 20% del total. 
       
     .row.justify-content-center.mb-2
       .col-lg-8
@@ -223,6 +222,7 @@
     p.mb-4 A través de la plataforma de Facebook Ads se realizan también los anuncios y campañas para Instagram, con características similares; es importante que cuando se manejan ambas cuentas el desarrollo de las campañas se haga integrándose para tener un mejor alcance, teniendo en cuenta claro está, el segmento de mercado.
     .cajon.color-acento-contenido.mb-5.p-4
       p.mb-0 #[strong Nota:] en el siguiente enlace se puede realizar la edición y configuración de las campañas, teniendo en cuenta que debe tener una cuenta en Facebook Manager para ello:
+        a(href='http://www.facebook.com/ads/manage/powereditor')  www.facebook.com/ads/manage/powereditor
 
     separador
 
@@ -241,7 +241,7 @@
                   img(src='@/assets/curso/tema4/img10.svg', alt='Objetivo', style="width:150px").mx-auto
               
             .h2.text-center.mb-5 Red de búsqueda
-            p.text-center está conformada por los resultados de búsqueda que se hacen en Google y etiquetados con la palabra “Anuncio”. Esta red permite aparecer en posiciones destacadas cuando un usuario realiza una búsqueda semejante con el objeto de la búsqueda; es decir, con palabras claves relacionadas. 
+            p.text-center Está conformada por los resultados de búsqueda que se hacen en Google y etiquetados con la palabra “Anuncio”. Esta red permite aparecer en posiciones destacadas cuando un usuario realiza una búsqueda semejante con el objeto de la búsqueda; es decir, con palabras claves relacionadas. 
           
           .col-md.tarjeta.color-primario.p-5
             .row.justify-content-center.mb-4
@@ -249,7 +249,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img11.svg', alt='Estructura', style="width:140px").mx-auto
             .h2.text-center.mb-5.text-white Red display
-            p.text-center.text-white está conformada por todos los portales y sitios asociados a Google a través de Adsense o en sitios que pertenecen a Google como Gmail o YouTube. Esta red permite llegar a un gran número de personas y generar un alto posicionamiento de marca.
+            p.text-center.text-white Está conformada por todos los portales y sitios asociados a Google a través de Adsense o en sitios que pertenecen a Google como Gmail o YouTube. Esta red permite llegar a un gran número de personas y generar un alto posicionamiento de marca.
 
 
     .tarjeta.p-4.p-md-5.mb-5(style="background-color: #d2e1f17d; border-radius: 0;")
@@ -315,7 +315,8 @@
             figure
               img(src='@/assets/curso/tema4/img16.svg', alt='Concordancia negativa', style='width:345px;').mx-auto
 
-    p.mb-5 En el siguiente enlace se puede hacer una planeación previa de las palabras claves que se pueden utilizar en una campaña de Adwords: #[strong https://ads.google.com/home/]
+    p.mb-5 En el siguiente enlace se puede hacer una planeación previa de las palabras claves que se pueden utilizar en una campaña de Adwords: 
+      a(href='https://ads.google.com/home/')  https://ads.google.com/home/
 
     .tarjeta.p-4.p-md-5.mb-5(style="background-color: #d2e1f17d; border-radius: 0;")
       .row.justify-content-around.align-items-center
