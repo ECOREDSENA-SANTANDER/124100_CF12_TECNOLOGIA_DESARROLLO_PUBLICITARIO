@@ -73,7 +73,7 @@
                 img(src='@/assets/curso/tema1/iconos/icon6.svg', alt='Podcast', style="width:86px;")
 
           h4.mb-4 Podcast 
-          p.text-medium.mb-5 Estos contenidos brindan información de audio en cualquier momento, sin la necesidad de escucharla en directo en la radio, del mismo modo que el video, permitiendo escuchar de forma ilimitada un tema, pausarlo y analizarlo, lo que mejora su comprensión, Es menos didáctico que un video, pero requiere menor producción.
+          p.text-medium.mb-5 Estos contenidos brindan información de audio en cualquier momento, sin la necesidad de escucharla en directo en la radio, del mismo modo que el video, permitiendo escuchar de forma ilimitada un tema, pausarlo y analizarlo, lo que mejora su comprensión. Es menos didáctico que un video, pero requiere menor producción.
     
     .row.mb-5.justify-content-center
     

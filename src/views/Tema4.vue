@@ -222,7 +222,7 @@
     p.mb-4 A través de la plataforma de Facebook Ads se realizan también los anuncios y campañas para Instagram, con características similares; es importante que cuando se manejan ambas cuentas el desarrollo de las campañas se haga integrándose para tener un mejor alcance, teniendo en cuenta claro está, el segmento de mercado.
     .cajon.color-acento-contenido.mb-5.p-4
       p.mb-0 #[strong Nota:] en el siguiente enlace se puede realizar la edición y configuración de las campañas, teniendo en cuenta que debe tener una cuenta en Facebook Manager para ello:
-        a(href='http://www.facebook.com/ads/manage/powereditor')  www.facebook.com/ads/manage/powereditor
+        a(href='http://www.facebook.com/ads/manage/powereditor' target="_blank")  www.facebook.com/ads/manage/powereditor
 
     separador
 
@@ -316,7 +316,7 @@
               img(src='@/assets/curso/tema4/img16.svg', alt='Concordancia negativa', style='width:345px;').mx-auto
 
     p.mb-5 En el siguiente enlace se puede hacer una planeación previa de las palabras claves que se pueden utilizar en una campaña de Adwords: 
-      a(href='https://ads.google.com/home/')  https://ads.google.com/home/
+      a(href='https://ads.google.com/home/' target="_blank")  https://ads.google.com/home/
 
     .tarjeta.p-4.p-md-5.mb-5(style="background-color: #d2e1f17d; border-radius: 0;")
       .row.justify-content-around.align-items-center

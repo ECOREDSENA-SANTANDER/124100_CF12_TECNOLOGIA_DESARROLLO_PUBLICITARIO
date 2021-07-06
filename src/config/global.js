@@ -332,27 +332,33 @@ export default {
       {
         nombre: 'Manuel Augusto Arias López',
         cargo: 'Instructor – Experto temático',
-        centro: 'Centro de Comercio y Servicios – Regional Quindío',
+        centro: 'Centro de Comercio y Servicios Regional Quindío',
       },
       {
         nombre: 'Andrea Velásquez Torres',
         cargo: 'Apoyo Experto temático',
-        centro: 'Centro de Comercio y Servicios – Regional Quindío',
-      },
-      {
-        nombre: 'Vilma Perilla Méndez',
-        cargo: 'Evaluadora Instruccional',
-        centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
+        centro: 'Centro de Comercio y Servicios Regional Quindío',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
         cargo: 'Diseñador Instruccional',
-        centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+      },
+      {
+        nombre: 'Vilma Perilla Méndez',
+        cargo: 'Evaluadora Instruccional',
+        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julieth Paola Vital López',
+        cargo: 'Evaluadora Instruccional',
+        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
       },
       {
         nombre: 'Sandra Patricia Hoyos Sepúlvea',
         cargo: 'Edición y corrección de estilo',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -412,8 +418,7 @@ export default {
       {
         nombre: 'Zuleidy Maria Ruiz Torres',
         cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
         nombre: 'John Andres Ayala Angarita',
