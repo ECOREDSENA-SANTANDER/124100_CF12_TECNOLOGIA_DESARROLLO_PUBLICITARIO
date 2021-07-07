@@ -336,23 +336,24 @@ export default {
       },
       {
         nombre: 'Andrea Velásquez Torres',
-        cargo: 'Apoyo Experto temático',
+        cargo: 'Apoyo experto temático',
         centro: 'Centro de Comercio y Servicios Regional Quindío',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
       },
       {
         nombre: 'Vilma Perilla Méndez',
-        cargo: 'Evaluadora Instruccional',
+        cargo: 'Evaluadora instruccional',
         centro: 'Centro de Gestión Industrial Regional Distrito Capital',
       },
       {
         nombre: 'Julieth Paola Vital López',
-        cargo: 'Evaluadora Instruccional',
-        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
+        cargo: 'Correctora de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
       },
       {
         nombre: 'Sandra Patricia Hoyos Sepúlvea',
