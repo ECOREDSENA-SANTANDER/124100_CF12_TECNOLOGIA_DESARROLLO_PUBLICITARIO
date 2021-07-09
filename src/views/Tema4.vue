@@ -90,7 +90,7 @@
           .titulo-segundo.mb-4
             h3 Tipos de campañas en Facebook
           p.mb-4 En Facebook se pueden desarrollar diferentes tipos de campañas o estrategias de comunicación que van desde una campaña en la que se estructura un plan completo, un grupo de anuncios o un único anuncio. Sin embargo, Facebook permite a sus usuarios el desarrollo de una gama de campañas pensadas para satisfacer diferentes necesidades.
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/infografía_autenticación.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones(:href="obtenerLink('/downloads/Infografia_Tipos de campañas en Facebook.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 
@@ -260,7 +260,7 @@
           .titulo-segundo.mb-4
             h3 Funcionamiento
           p.mb-4 De la misma forma que Facebook, Google permite llegar a segmentos muy específicos de la población, estos deben estar previamente caracterizados para realizar de la forma más eficientemente posible el desarrollo de las estrategias de comunicación.
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/funcionamiento.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones(:href="obtenerLink('/downloads/infografia_funcionamiento.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 
@@ -326,7 +326,7 @@
           .titulo-segundo.mb-4
             h3 Características de los anuncios en Google Adwords
           p.mb-4 En Google han identificado elementos claves para el desarrollo de anuncios efectivos; entre mejor esté diseñado el anuncio más alcance e impacto va a generar en el mercado objetivo.
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones(:href="obtenerLink('/downloads/Infografia Características de los anuncios en Google Adwords.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 
