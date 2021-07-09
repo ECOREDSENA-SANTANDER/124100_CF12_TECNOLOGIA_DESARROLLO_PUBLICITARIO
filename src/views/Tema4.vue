@@ -260,7 +260,7 @@
           .titulo-segundo.mb-4
             h3 Funcionamiento
           p.mb-4 De la misma forma que Facebook, Google permite llegar a segmentos muy específicos de la población, estos deben estar previamente caracterizados para realizar de la forma más eficientemente posible el desarrollo de las estrategias de comunicación.
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/infografia_funcionamiento.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones(:href="obtenerLink('/downloads/funcionamiento.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 
