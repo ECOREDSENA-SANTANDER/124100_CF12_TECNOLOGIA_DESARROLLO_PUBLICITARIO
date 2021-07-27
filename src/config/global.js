@@ -118,7 +118,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '6.1',
-            titulo: 'Imagen de perfilPost',
+            titulo: 'Imagen de perfil',
             hash: 't_6_1',
           },
           {
@@ -296,11 +296,6 @@ export default {
       tipo: 'Página web',
       link:
         'https://branch.com.co/marketing-digital/estadisticas-de-la-situacion-digital-de-colombia-en-el-2019-y-2020/',
-    },
-    {
-      texto: 'Facebook. (2020). Anuncios de Facebook.',
-      tipo: 'Página web',
-      link: 'https://www.facebook.com/ads/tools/text_overlay',
     },
     {
       texto: 'Facebook. (2020). Edición y configuración de campañas.',
