@@ -13,7 +13,8 @@
 
     figure.mb-5
       .video
-        <iframe width="990" height="557" src="https://www.youtube.com/embed/H6vXuqEGkws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="990" height="557" src="https://www.youtube.com/embed/ZycQ1BjU7v8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
 
     #t_5_2.titulo-segundo
       h2 5.2 Stories
@@ -27,7 +28,8 @@
 
     figure.mb-5
       .video
-        <iframe width="990" height="557" src="https://www.youtube.com/embed/ZycQ1BjU7v8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="990" height="557" src="https://www.youtube.com/embed/H6vXuqEGkws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
 
 
 </template>
