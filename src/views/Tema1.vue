@@ -7,7 +7,11 @@
         span 1
       h1 Contenidos digitales
 
-    p.mb-4 Se pueden considerar contenidos digitales todos aquellos elementos que se publican en los diferentes medios digitales, es decir, todo lo relacionado con publicidad, periodismo, educación e información acerca de cualquier disciplina que requiera dar a conocer, promocionar o informar sobre aspectos específicos.
+    .row.justify-content-center 
+      .col-lg-1
+        img(src='@/assets/curso/tema1/img1.svg', alt='Infografías', style="width:86px;")
+      .col-lg-11.col-sm-12
+        p.mb-4 Se pueden considerar contenidos digitales todos aquellos elementos que se publican en los diferentes medios digitales, con todo lo relacionado con publicidad, periodismo, educación e información acerca de cualquier disciplina que requiera dar a conocer, promocionar o informar sobre aspectos específicos. 
 
     .h4.mb-5 Tipos de contenidos digitales
     
