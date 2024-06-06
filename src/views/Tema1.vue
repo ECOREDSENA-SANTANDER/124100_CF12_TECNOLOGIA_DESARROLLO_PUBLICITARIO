@@ -35,7 +35,7 @@
                 img(src='@/assets/curso/tema1/iconos/icon2.svg', alt='Newsletters', style="width:86px;")
 
           h4.mb-4 Newsletters 
-          p.text-medium.mb-5 Es uno de los contenidos con mayor efectividad para ciertas empresas debido a que genera información permanente y de calidad. Es el recurso preferido para las campañas de email marketing, ya que permite comunicación efectiva y directa con el mercado objetivo, además de su capacidad de segmentación.
+          p.text-medium.mb-5 Es uno de los presas debido a que genera información permanente y de calidad. Es el recurso preferido para las campañas de email marketing, ya que permite comunicación efectiva y directa con el mercado objetivo, además de su capacidad de segmentación.
 
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.color-secundario.p-4
