@@ -3,8 +3,8 @@ export default {
     componenteFormativo: 'Diseño de contenidos digitales',
     descripcionCurso:
       'Los contenidos digitales permiten hoy en día a la mayoría de profesionales mostrar sus opiniones, resultados de sus investigaciones o datos recibidos de primera mano a sus seguidores, amigos y colegas, esto permite que haya globalización y democratización de la información; es decir, que el acceso a esta sea para todas las personas.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner.png'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner.svg'),
   },
   menuPrincipal: {
     menu: [
