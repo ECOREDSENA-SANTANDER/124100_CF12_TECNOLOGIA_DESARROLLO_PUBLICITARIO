@@ -5,6 +5,28 @@ export default {
       'Los contenidos digitales permiten hoy en día a la mayoría de profesionales mostrar sus opiniones, resultados de sus investigaciones o datos recibidos de primera mano a sus seguidores, amigos y colegas, esto permite que haya globalización y democratización de la información; es decir, que el acceso a esta sea para todas las personas.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner.svg'),
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-4.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-5.svg'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [

@@ -373,40 +373,61 @@
     
     h4.mb-5 Tipos de campañas en Facebook
 
-    p.mb-5 En Facebook se pueden desarrollar diferentes tipos de campañas o estrategias de comunicación que van desde una campaña en la que se estructura un plan completo, un grupo de anuncios o un único anuncio. Sin embargo, Facebook permite a sus usuarios el desarrollo de una gama de campañas pensadas para satisfacer diferentes necesidades:
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4
+        img.mb-4.my-4.d-none.d-lg-block(src='@/assets/curso/tema4/ima18.svg',alt='tema3')
+      .col-sm-12.col-lg-6
+        p.mb-5 En Facebook se pueden desarrollar diferentes tipos de campañas o estrategias de comunicación que van desde una campaña en la que se estructura un plan completo, un grupo de anuncios o un único anuncio. Sin embargo, Facebook permite a sus usuarios el desarrollo de una gama de campañas pensadas para satisfacer diferentes necesidades:
+        .tarjeta.tarjeta--verde.p-5
+          SlyderA(tipo="b")
+            .row
+              .col-lg-12.col-sm-12
+                p.mb-4 #[b Promocionar publicaciones]
+                p.mb-0 Como su nombre lo indica, permite generar visibilidad a una publicación realizada en el timeline, siendo la forma más sencilla y básica para realizar estrategias de comunicación en Facebook.
+            .row
+              .col-lg-12.col-sm-12
+                p.mb-4 #[b Promocionar una página]
+                p.mb-0 con esta estrategia se busca aumentar el número de seguidores que tenga la página, esto permite subir su status y producir un mejor posicionamiento.
+            .row
+              .col-lg-12.col-sm-12
+                p.mb-4 #[b Atraer personas a un sitio web]
+                p.mb-0 teniendo en cuenta el poder de la segmentación de Facebook, este tipo de campaña permite generar tráfico de usuarios con características muy específicas al sitio web de la empresa, se puede realizar para un sitio externo o para una página fanpage.
+            .row
+              .col-lg-12.col-sm-12
+                p.mb-4 #[b Aumentar conversiones en un sitio web]
+                p.mb-0 este tipo de campaña está direccionada a que el usuario realice una acción específica dentro del sitio web: suscripciones, descargas, pagos, etc.
+            .row
+              .col-lg-12.col-sm-12
+                p.mb-4 #[b Instalación de una App]
+                p.mb-0 esta campaña enlaza directamente a la tienda de Apps, el objetivo es aumentar el número de descargas, para este tipo de estrategia se puede hacer segmentación de usuarios de Smartphone.
+            .row
+              .col-lg-12.col-sm-12
+                p.mb-4 #[b Incrementar la interacción en una App]
+                p.mb-0 este tipo de campaña se enfoca en el desarrollo de una acción dentro de la App, esta puede estar dirigida a personas con la App descargada o en quienes la tienen para que realice también la instalación.
+            .row
+              .col-lg-12.col-sm-12
+                p.mb-4 #[b Llegar a personas cerca al negocio]
+                p.mb-0 esta campaña se basa en la geolocalización, se realiza segmentación de acuerdo a un rango de cobertura, en este punto se puede agregar un mapa para que el cliente tenga la opción de llegar.
+            .row
+              .col-lg-12.col-sm-12
+                p.mb-4 #[b Aumento de asistentes a un evento]
+                p.mb-0 el objetivo es llevar a las personas a un evento en particular, en este tipo de campañas es importante realizar segmentación con base en la geolocalización.
+            .row
+              .col-lg-12.col-sm-12
+                p.mb-4 #[b Conseguir solicitudes de ofertas]
+                p.mb-0 esta campaña se orienta a dar visibilidad a ofertas realizadas en anuncios anteriores con límite de tiempo o cantidad, esta campaña permite poner un botón de < Obtener oferta >. Esta campaña combinada con una segmentación con base en la geolocalización puede generar mayor efectividad.
+            .row
+              .col-lg-12.col-sm-12
+                p.mb-4 #[b Aumentar reproducciones de un video]
+                p.mb-0 los audiovisuales representan mayor efectividad en el desarrollo de una estrategia promocional, por esto este tipo de campaña es muy efectiva y su enfoque es el aumento en la visualización de un video específico.
 
-    .row.justify-content-center 
-      .col-md-6.col-lg-3.col-6
-        img.mb-4.my-4(src='@/assets/curso/tema4/ima18.svg',alt='tema3')
-      .col-sm-12.col-lg-9
-        TabsA.color-acento-botones.mb-5(data-aos="zoom-in")
-          .tarjeta.colo.color-primate.p-4(titulo="Promocionar publicaciones")
-            p.mb-0 Como su nombre lo indica, permite generar visibilidad a una publicación realizada en el timeline, siendo la forma más sencilla y básica para realizar estrategias de comunicación en Facebook.
-          .tarjeta.color-primate.p-4(titulo="Promocionar una página")
-            p.mb-0 con esta estrategia se busca aumentar el número de seguidores que tenga la página, esto permite subir su status y producir un mejor posicionamiento.
-          .tarjeta.color-primate.p-4(titulo="Atraer personas a un sitio web")
-            p.mb-0 teniendo en cuenta el poder de la segmentación de Facebook, este tipo de campaña permite generar tráfico de usuarios con características muy específicas al sitio web de la empresa, se puede realizar para un sitio externo o para una página fanpage.
-          .tarjeta.color-primate.p-4(titulo="Aumentar conversiones en un sitio web")
-            p.mb-0 este tipo de campaña está direccionada a que el usuario realice una acción específica dentro del sitio web: suscripciones, descargas, pagos, etc.
-          .tarjeta.color-primate.p-4(titulo="Instalación de una App")
-            p.mb-0 esta campaña enlaza directamente a la tienda de Apps, el objetivo es aumentar el número de descargas, para este tipo de estrategia se puede hacer segmentación de usuarios de Smartphone.
-          .tarjeta.color-primate.p-4(titulo="Incrementar la interacción en una App")
-            p.mb-0 este tipo de campaña se enfoca en el desarrollo de una acción dentro de la App, esta puede estar dirigida a personas con la App descargada o en quienes la tienen para que realice también la instalación.
-          .tarjeta.color-primate.p-4(titulo="Llegar a personas cerca al negocio")
-            p.mb-0 esta campaña se basa en la geolocalización, se realiza segmentación de acuerdo a un rango de cobertura, en este punto se puede agregar un mapa para que el cliente tenga la opción de llegar.
-          .tarjeta.color-primate.p-4(titulo="Aumento de asistentes a un evento")
-            p.mb-0 el objetivo es llevar a las personas a un evento en particular, en este tipo de campañas es importante realizar segmentación con base en la geolocalización.
-          .tarjeta.color-primate.p-4(titulo="Conseguir solicitudes de ofertas")
-            p.mb-0 esta campaña se orienta a dar visibilidad a ofertas realizadas en anuncios anteriores con límite de tiempo o cantidad, esta campaña permite poner un botón de < Obtener oferta >. Esta campaña combinada con una segmentación con base en la geolocalización puede generar mayor efectividad.
-          .tarjeta.color-primate.p-4(titulo="Aumentar reproducciones de un video")
-            p.mb-0 los audiovisuales representan mayor efectividad en el desarrollo de una estrategia promocional, por esto este tipo de campaña es muy efectiva y su enfoque es el aumento en la visualización de un video específico.
 
     h4.mb-4 Segmentación de audiencias en Facebook
     p.mb-5 Es pertinente recordar que el desarrollo de una estrategia de comunicación efectiva parte de un perfilamiento muy profundo de los clientes, con base en características demográficas y psicográficas. Antes del desarrollo de una campaña en Facebook es necesario realizar un arquetipo de cliente muy bien estructurado que permita realizar en la plataforma una segmentación más acertada y efectiva. La caracterización que realiza la red social contiene las siguientes variables:
 
-    .row.justify-content-center 
-      .col-md-12.col-lg-8.col-12
-        AcordionA.mb-5.activo(tipo="a" clase-tarjeta="tarjeta tarjeta--azull")(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center
+      .col-sm-12.col-lg-6
+        AcordionA.mb-0(tipo="a" clase-tarjeta="tarjeta tarjeta--azull")(data-aos="zoom-in-left")
           .row(titulo="Lugar")
             .col-sm-12.col-lg-12
                 p.mb-0.mo Permite segmentar por país, departamento, ciudad, código postal y rango de cobertura. De esta forma el anuncio solo se mostrará a personas que estén en esa zona específica.
@@ -425,6 +446,13 @@
           .row(titulo="Padres")
             .col-sm-12.col-lg-12
                 p.mb-0.mo Segmenta con base en el número de hijos y las edades de estos, puede caracterizar a futuros padres.
+      .col-sm-12.col-lg-6
+        img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema4/ima19.png' alt='AvatarTop')
+    .row.justify-content-center.align-items-center
+      .col-sm-12.col-lg-6
+        img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema4/ima19.1.png' alt='AvatarTop')
+      .col-sm-12.col-lg-6
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azull")(data-aos="zoom-in-left")
           .row(titulo="Acontecimientos importantes")
             .col-sm-12.col-lg-12
                 p.mb-0.mo Segmenta con base en situaciones específicas del mercado, por ejemplo: cambio en su estado civil, en el país o la ciudad de residencia.
@@ -443,9 +471,7 @@
           .row(titulo="Conexiones")
             .col-sm-12.col-lg-12
                 p.mb-0.mo Permite segmentar con base en la relación de los usuarios con la fanpage, permite excluir o incluir seguidores y amigos.
-      .col-lg-4
-        img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema4/ima19.png' alt='AvatarTop')
-
+      
     h4.mb-4 Costo de la campaña
     p.mb-4 Una de las grandes ventajas de Facebook es que permite adaptarse a la capacidad económica del anunciante, en este punto se pueden seleccionar algunas variables para determinar el presupuesto: 
 
@@ -498,13 +524,18 @@
     p.mb-5 Facebook con el fin de mejorar el rendimiento de la publicidad en su plataforma, tiene algunas reglas o restricciones para el desarrollo de los anuncios:
     
       
-    .row.justify-content-center.align-items-center  
+    .row.justify-content-center.align-items-center.mb-5  
       .col-lg-3.col-sm-10  
         .bg3.p-4
           .col-lg-12
             .cajam.mb-4
               h4.text-center.text-white 20% máximo de texto: 
           p.text-center en los anuncios de Facebook deben predominar las imágenes, por ello el texto no debe ocupar más del 20% del total. En el siguiente enlace se puede medir esta proporción: 
+          a.anexo.mb-4.mb-lg-0(href="https://www.facebook.com/ads/tools/text_overlay" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p Enlace web. https://www.facebook.com/ads/tools/text_overlay
       .col-lg-3.col-sm-10  
         .tarjeta.color-secundari.bg3.p-4
           .row.justify-content-center.align-items-center
@@ -527,200 +558,180 @@
                 h4.text-center.text-white Productos: 
           p.text-center de acuerdo con las normas de publicidad de cualquier medio, en Facebook no se pueden promocionar cigarrillos de ningún tipo, productos ilegales, medicamentos o armas, tampoco los relacionados con alcohol, servicios sexuales, apuestas o loterías. 
 
-
-
-
-
-
-
-
-
-
-
-    .tarjeta.p-4.p-md-5(style="background-color: #d2e1f17d; border-radius: 0;margin-bottom:60px;")
-      .row.justify-content-around.align-items-center
-        .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
-          img(src="@/assets/curso/tema4/img2.svg", alt="Tipos de campañas en Facebook", style="width:300px;").mx-auto
-        .col-md.col-lg-6
-          .titulo-segundo.mb-4
-            h3 Tipos de campañas en Facebook
-          p.mb-4 En Facebook se pueden desarrollar diferentes tipos de campañas o estrategias de comunicación que van desde una campaña en la que se estructura un plan completo, un grupo de anuncios o un único anuncio. Sin embargo, Facebook permite a sus usuarios el desarrollo de una gama de campañas pensadas para satisfacer diferentes necesidades.
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/Infografia_Tipos de campañas en Facebook.pdf')" target="_blank" type="application/pdf")
-            span Descargar
-            i.fas.fa-file-download
-
-
-    .h3.mb-4 Segmentación de audiencias en Facebook
-    p.mb-5 No sobra recordar que el desarrollo de una estrategia de comunicación efectiva parte de un perfilamiento muy profundo de los clientes, con base en características demográficas y psicográficas. Antes del desarrollo de una campaña en Facebook es necesario realizar un arquetipo de cliente muy bien estructurado que permita realizar en la plataforma una segmentación más acertada y efectiva. La caracterización que realiza la red social contiene las siguientes variables:
-
-    .row.justify-content-center.mb-5
-      .col-lg-7.align-self-center
-        ul.lista-ul
-          li 
-            i.fas.fa-hand-point-right
-            p.mb-0 #[strong Lugar:] permite segmentar por país, departamento, ciudad, código postal y rango de cobertura. De esta forma el anuncio solo se mostrará a personas que estén en esa zona específica.
-          li 
-            i.fas.fa-hand-point-right
-            p.mb-0 #[strong Datos demográficos:] estos datos son muy importantes para el perfilamiento del cliente, los datos básicos son sexo, edad e idioma, sin embargo, es posible acceder a otros datos más específicos. En el caso de la edad se determina la mínima y la máxima. Para el caso de sexo puede seleccionarse hombres, mujeres o ambos.
-          li 
-            i.fas.fa-hand-point-right
-            p.mb-0 #[strong Relación:] este punto permite determinar si el anuncio va dirigido a personas interesadas en hombres, mujeres o ambos o a un estado civil específico.
-          li 
-            i.fas.fa-hand-point-right
-            p.mb-0 #[strong Educación:] se puede segmentar por el nivel educativo, la institución educativa y hasta el año de graduación.
-          li 
-            i.fas.fa-hand-point-right
-            p.mb-0 #[strong Trabajo:] en este punto se puede segmentar por empresas, cargos y actividades económicas de empresas.
-          li 
-            i.fas.fa-hand-point-right
-            p.mb-0 #[strong Padres:] segmenta con base en el número de hijos y las edades de estos, puede caracterizar a futuros padres.
-          li 
-            i.fas.fa-hand-point-right
-            p.mb-0 #[strong Acontecimientos importantes:] segmenta con base en situaciones específicas del mercado, por ejemplo: cambio en su estado civil, en el país o la ciudad de residencia.
-          li 
-            i.fas.fa-hand-point-right
-            p.mb-0 #[strong Intereses:] es tal vez uno de los datos más relevantes y efectivos en el desarrollo de una estrategia de comunicación. Esta permite segmentar entre un listado muy amplio de posibilidades de interés y aficiones de los usuarios de Facebook: cine, libros, series, deportes, juegos, equipos de fútbol y otros deportes, entre muchos.
-          li 
-            i.fas.fa-hand-point-right
-            p.mb-0 #[strong Comportamientos:] en este punto se pueden segmentar los usuarios por actividades relacionadas con la tecnología, personas que debieron salir del país o por eventos actuales. Es una característica poco usual en Colombia.
-          li 
-            i.fas.fa-hand-point-right
-            p.mb-0 #[strong Usuarios de dispositivos:] esta característica permite segmentar los usuarios de acuerdo al dispositivo por el cual accede: computador, tablet o celular. Adicionalmente, permite segmentar por marcas de dispositivos, sistemas operativos y tipo de conexión.
-          li 
-            i.fas.fa-hand-point-right
-            p.mb-0 #[strong Viajes:] permite la segmentación de usuarios que utilicen aplicaciones de viajes en un periodo de tiempo determinado, la frecuencia de viaje y si lo hacen por negocios o placer.
-
-          li 
-            i.fas.fa-hand-point-right
-            p.mb-0 #[strong Conexiones:] permite segmentar con base en la relación de los usuarios con la fanpage, permite excluir o incluir seguidores y amigos.
-          
-      .col-lg-4.align-self-center
-        figure.mb-4
-          img(src="@/assets/curso/tema4/img3.svg", alt="Tipos de campañas en Facebook", style="width:350px;").mx-auto
-        figure.mb-5
-          img(src="@/assets/curso/tema4/img4.svg", alt="Tipos de campañas en Facebook", style="width:350px;").mx-auto
-
-
-    .h3.mb-4 Costo de la campaña
-    p.mb-4 Una de las grandes ventajas de Facebook es que permite adaptarse a la capacidad económica del anunciante, en este punto se pueden seleccionar algunas variables para determinar el presupuesto:
-
-    .row.justify-content-center.mb-5
-      .col-lg-7.align-self-center
-        .row.justify-content-center
-          .col-lg-11
-            ul.lista-ul--color
-              li.mb-4
-                img(src='@/assets/curso/tema4/icon6.svg' alt='AvatarTop', style="width:57px")
-                p.mb-4.ms-4.mt-2 #[strong Periodo de circulación: ] determina el tiempo que va a estar la campaña al aire.
-              li.mb-4
-                img(src='@/assets/curso/tema4/icon6.svg' alt='AvatarTop', style="width:57px")
-                p.mb-4.ms-4.mt-2  #[strong Presupuesto: ] se puede determinar la inversión total o asignar un gasto máximo por día.
-
-          .col-lg-12
-            p.mb-4 Para la definición del costo de la campaña se pueden también tener en cuenta otros datos avanzados:
-
-          .col-lg-11
-            ul.lista-ul--color
-              li.mb-4
-                img(src='@/assets/curso/tema4/icon6.svg' alt='AvatarTop', style="width:57px")
-                p.mb-4.ms-4.mt-2 #[strong Objetivo: ] aplicando esta opción el sistema determina qué es lo ideal para el cobro: Costo Por Mil (CPM) o Costo Por Clic (CPC).
-              li.mb-4
-                img(src='@/assets/curso/tema4/icon6.svg' alt='AvatarTop', style="width:57px")
-                p.mb-4.ms-4.mt-2  #[strong Clics: ] CPC, es decir, que se paga por los clics que realicen los usuarios en el anuncio.
-              li.mb-4
-                img(src='@/assets/curso/tema4/icon6.svg' alt='AvatarTop', style="width:57px")
-                p.mb-4.ms-4.mt-2  #[strong Impresiones: ] CPM, es decir, se cuantifica en función de cada mil impactos.
-      .col-lg-5.align-self-center
-        figure
-          img(src="@/assets/curso/tema4/img5.svg", alt="costo de la campaña", style='width:487px;').mx-auto
-
-    .h3.mb-4  Características de los anuncios en Facebook
-    p.mb-5 Facebook con el fin de mejorar el rendimiento de la publicidad en su plataforma, tiene algunas reglas o restricciones para el desarrollo de los anuncios:
-
-    .row.justify-content-center.mb-2
-      .col-lg-8
-        .row.justify-content-center(style='background-color: #b0c0d23b')
-          .col-lg-2.align-self-center.p-0.mt-2.mb-2
-            figure
-              img(src="@/assets/curso/tema4/img6.svg", alt="imagen que acompaña", style='width:96px;').mx-auto
-          .col-lg-10.p-0.align-self-center
-            p.mb-0.p-4 #[strong 20% máximo de texto:] en los anuncios de Facebook deben predominar las imágenes, por ello el texto no debe ocupar más del 20% del total. 
-      
-    .row.justify-content-center.mb-2
-      .col-lg-8
-        .row.justify-content-center(style='background-color: #b0c0d23b')
-          .col-auto.align-self-center.p-0.mt-2.mb-2
-            figure
-              img(src="@/assets/curso/tema4/img7.svg", alt="imagen que acompaña", style='width:96px;').mx-auto
-          .col-lg-10.p-0.align-self-center
-            p.mb-0.p-4 #[strong Mención correcta de la red social:] la palabra Facebook debe escribirse correctamente con la F en mayúscula y no utilizar el logo.
     
-    .row.justify-content-center.mb-2
-      .col-lg-8
-        .row.justify-content-center(style='background-color: #b0c0d23b')
-          .col-lg-2.align-self-center.p-0.mt-2.mb-2
-            figure
-              img(src="@/assets/curso/tema4/img8.svg", alt="imagen que acompaña", style='width:96px;').mx-auto
-          .col-lg-10.p-0.align-self-center
-            p.mb-0.p-4 #[strong Contenido:] Facebook limita el uso de desnudos e imágenes que puedan lastimar la sensibilidad de los usuarios.
-
-    .row.justify-content-center.mb-5
-      .col-lg-8
-        .row.justify-content-center(style='background-color: #b0c0d23b')
-          .col-lg-2.align-self-center.p-0.mt-2.mb-2
-            figure
-              img(src="@/assets/curso/tema4/img9.svg", alt="imagen que acompaña", style='width:96px;').mx-auto
-          .col-lg-10.p-0.align-self-center
-            p.mb-0.p-4 #[strong Productos:] de acuerdo con las normas de publicidad de cualquier medio, en Facebook no se pueden promocionar cigarrillos de ningún tipo, productos ilegales, medicamentos o armas, tampoco los relacionados con alcohol, servicios sexuales, apuestas o loterías.
-
-
-    p.mb-4 A través de la plataforma de Facebook Ads se realizan también los anuncios y campañas para Instagram, con características similares; es importante que cuando se manejan ambas cuentas el desarrollo de las campañas se haga integrándose para tener un mejor alcance, teniendo en cuenta claro está, el segmento de mercado.
-    .cajon.color-acento-contenido.mb-5.p-4
-      p.mb-0 #[strong Nota:] en el siguiente enlace se puede realizar la edición y configuración de las campañas, teniendo en cuenta que debe tener una cuenta en Facebook Manager para ello:
-        a(href='http://www.facebook.com/ads/manage/powereditor' target="_blank")  www.facebook.com/ads/manage/powereditor
+    .row.align-items-center.justify-content-center.mb-5
+      .col-lg-12.col-md-12.col-12
+        .caja1.p-4
+          .row.align-items-center.justify-content-center
+            .col-lg-2
+              img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema4/ima11.svg")
+            .col-lg-8.col-md-12.col-12
+              h4.mb-0.text-white #[b Recomendado]
+              p.mb-0 en el siguiente enlace se puede realizar la edición y configuración de las campañas, teniendo en cuenta que debe tener una cuenta en Facebook Manager para ello.
+            .col-lg-2
+              a.boton.color-acento-botones(href="http://www.facebook.com/ads/manage/powereditor" target="_blank")
+                span Enlace
+                i.fas.fa-link
 
     separador
-
     #t_4_3.titulo-segundo
       .h2 4.3 Google Adwords
     
     p.mb-5 Es la plataforma publicitaria digital más grande del mundo y es administrada por Google, el motor de búsqueda más utilizado a nivel mundial y el sitio web más visitado diariamente. Esta plataforma publicitaria está conformada por dos redes principales:
 
-    .row.justify-content-center
-      .col-lg-10
-        .tarjeta--container.row.mb-5
-          .col-md.tarjeta.color-acento-contenido.p-5
-            .row.justify-content-center.mb-4
-              .col-6
-                figure
-                  img(src='@/assets/curso/tema4/img10.svg', alt='Objetivo', style="width:150px").mx-auto
-              
-            .h2.text-center.mb-5 Red de búsqueda
-            p.text-center Está conformada por los resultados de búsqueda que se hacen en Google y etiquetados con la palabra “Anuncio”. Esta red permite aparecer en posiciones destacadas cuando un usuario realiza una búsqueda semejante con el objeto de la búsqueda; es decir, con palabras claves relacionadas. 
+    .row.justify-content-center.mb-0
+      .col-lg-5.col-sm-12.my-3.mb-5
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema4/ima27.svg',alt='tema2')
+          div.bg15.p-4.h-100.p-5
+            p.mb-2.my-5 #[b 1. Red de búsqueda:]
+            p.mb-0 está conformada por los resultados de búsqueda que se hacen en Google y etiquetados con la palabra “Anuncio”. Esta red permite aparecer en posiciones destacadas cuando un usuario realiza una búsqueda semejante con el objeto de la búsqueda; es decir, con palabras claves relacionadas. 
           
-          .col-md.tarjeta.color-primario.p-5
-            .row.justify-content-center.mb-4
-              .col-6
-                figure
-                  img(src='@/assets/curso/tema4/img11.svg', alt='Estructura', style="width:140px").mx-auto
-            .h2.text-center.mb-5.text-white Red display
-            p.text-center.text-white Está conformada por todos los portales y sitios asociados a Google a través de Adsense o en sitios que pertenecen a Google como Gmail o YouTube. Esta red permite llegar a un gran número de personas y generar un alto posicionamiento de marca.
-
-
-    .tarjeta.p-4.p-md-5.mb-5(style="background-color: #d2e1f17d; border-radius: 0;")
-      .row.justify-content-around.align-items-center
-        .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
-          img(src="@/assets/curso/tema4/img2.svg", alt="Funcionamiento", style="width:300px;").mx-auto
-        .col-md.col-lg-6
-          .titulo-segundo.mb-4
-            h3 Funcionamiento
-          p.mb-4 De la misma forma que Facebook, Google permite llegar a segmentos muy específicos de la población, estos deben estar previamente caracterizados para realizar de la forma más eficientemente posible el desarrollo de las estrategias de comunicación.
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/funcionamiento.pdf')" target="_blank" type="application/pdf")
-            span Descargar
-            i.fas.fa-file-download
+      .col-lg-5.col-sm-12.my-3.mb-5
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema4/ima28.svg',alt='tema2')
+          div.bg15.p-4.h-100.p-5
+            p.mb-2.my-5 #[b 2. Red display:] 
+            p.mb-0 está conformada por todos los portales y sitios asociados a Google a través de Adsense o en sitios que pertenecen a Google como Gmail o YouTube. Esta red permite llegar a un gran número de personas y generar un alto posicionamiento de marca. 
+            
+    h4.mb-5 Funcionamiento 
+    p.mb-5 De la misma forma que Facebook, Google permite llegar a segmentos muy específicos de la población, estos deben estar previamente caracterizados para realizar de la forma más eficientemente posible el desarrollo de las estrategias de comunicación.
+    
+    SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-left").mb-5
+      .tarjeta.color-secundari.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-a.img-t.mb-4(src='@/assets/curso/tema4/ima30.svg' alt='AvatarTop')
+        .row.justify-content-center.align-items-center
+          .col-lg-8
+        p.text-center #[em #[b Geografía:] determina la zona geográfica donde se van a mostrar los anuncios publicitarios; se puede llegar estratégicamente a un país, departamento, ciudad o zona circundante, dependiendo obviamente de la capacidad de cobertura que tenga la empresa.]
+      .tarjeta.color-secundari.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-a.img-t.mb-4(src='@/assets/curso/tema4/ima31.svg' alt='AvatarTop')
+        .row.justify-content-center.align-items-center
+          .col-lg-8
+        p.text-center #[em #[b Visibilidad:] esta característica de los anuncios de Google permite llegar únicamente a las personas que realizan búsquedas relacionadas con la empresa o producto que se está anunciando y discriminando palabras que no son del interés de la empresa; por ejemplo, si la empresa que anuncia es una escuela de artes, tal vez le interese llegar a quienes buscan “cursos de artes” pero tal vez no le interese llegar a quienes buscan “cursos de artes escénicas”. De ahí la importancia de hacer una correcta selección de las palabras claves.]
+      .tarjeta.color-secundari.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-a.img-t.mb-4(src='@/assets/curso/tema4/ima32.svg' alt='AvatarTop')
+        .row.justify-content-center.align-items-center
+          .col-lg-8
+        p.text-center #[em #[b Presupuesto:] algo positivo ha dejado la publicidad digital, es la posibilidad de que casi cualquier empresa, independiente del presupuesto que maneje puede acceder a estrategia de publicidad en Google Adwords. Adicional, Google limitó la cantidad de anuncios que una empresa podía publicitar a 1, de esta forma se hizo equitativo el modo de promocionarse independiente del presupuesto que se tenga.]
+      .tarjeta.color-secundari.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-a.img-t.mb-4(src='@/assets/curso/tema4/ima33.svg' alt='AvatarTop')
+        .row.justify-content-center.align-items-center
+          .col-lg-8
+        p.text-center #[em #[b Edición de anuncios:] una de las grandes ventajas que tiene esta plataforma y en general la publicidad digital, es la posibilidad de hacer correcciones a los anuncios, pausar las campañas y las palabras claves cuando se considere necesario.]
+      .tarjeta.color-secundari.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-a.img-t.mb-4(src='@/assets/curso/tema4/ima34.svg' alt='AvatarTop')
+        .row.justify-content-center.align-items-center
+          .col-lg-8
+        p.text-center #[em #[b Pago por clic:] como ya se explicó en Facebook Ads, el Pago Por Clic también implementado por Google consiste en pagar únicamente cuando un usuario hace clic sobre el anuncio.]
+      .tarjeta.color-secundari.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-a.img-t.mb-4(src='@/assets/curso/tema4/ima35.svg' alt='AvatarTop')
+        .row.justify-content-center.align-items-center
+          .col-lg-8
+        p.text-center #[em #[b Subasta:] esta es una metodología que consiste en que la empresa que está dispuesta a gastar un presupuesto mayor que el de las demás, es quien pone su anuncio en un espacio determinado, esta decisión debe tomarse con base en el CPC máximo que la empresa está dispuesta a pagar por poner un anuncio en la red. La puja se realiza en segundos y se toma la decisión de forma rápida.]
+      .tarjeta.color-secundari.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-a.img-t.mb-4(src='@/assets/curso/tema4/ima36.svg' alt='AvatarTop')
+        .row.justify-content-center.align-items-center
+          .col-lg-8
+        p.text-center #[em #[b Programación:] cada campaña se puede programar en días y horas específicas, dependiendo del tipo de producto o servicio y del mercado objetivo al que se dirige la campaña.]
+      .tarjeta.color-secundari.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img.img-a.img-t.mb-4(src='@/assets/curso/tema4/ima37.svg' alt='AvatarTop')
+        .row.justify-content-center.align-items-center
+          .col-lg-8
+        p.text-center #[em #[b Características demográficas:] de la misma forma que otras plataformas de publicidad digital, en Google es posible también segmentar el mercado por edad, sexo o ingreso familiar.]
 
     .h3.mb-4 Adwords express
-    p.mb-5 Es una versión automatizada de Google Adwords, esta se utiliza cuando no se cuenta con un sitio web y se requiere realizar el proceso de forma más sencilla, en esta plataforma solo se pueden realizar actividades básicas como crear un anuncio online, establecer un presupuesto, elegir una categoría de empresa y seleccionar frases de búsqueda relacionadas con el negocio.
+    
+    .row.justify-content-center.align-items-center.mb-5 
+      .col-lg-1
+        img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema4/ima38.svg', alt='Infografías', style="width:86px;")
+      .col-lg-11.col-sm-12
+        p.mb-0 Es una versión automatizada de Google Adwords, esta se utiliza cuando no se cuenta con un sitio web y se requiere realizar el proceso de forma más sencilla, en esta plataforma solo se pueden realizar actividades básicas como crear un anuncio online, establecer un presupuesto, elegir una categoría de empresa y seleccionar frases de búsqueda relacionadas con el negocio.
+
+    .h3.mb-4 Selección de palabras claves
+    
+    TabsC.color-primario.mb-5
+      .py-3.py-md-4.bg26.px-3(titulo="Concordancia amplia")
+        .row.justify-content-center.p-4
+          .col-lg-6.col-md-12.my-3
+            img.img-a.img-t(src='@/assets/curso/tema4/ima39.svg', alt='')
+          .col-lg-6.col-md-12.my-5
+            h4.mb-4 Concordancia amplia:
+            p en este punto Google escogerá cualquier palabra de la frase que se haya creado para mostrar anuncios con búsquedas que incluyan una de esas palabras. Esta acción puede generar errores en el desarrollo de las campañas porque la búsqueda se hace más general. Por ejemplo, si las palabras claves son “curso arte” Google activa anuncios con: curso de…, galería de arte, venta de arte, arte decorativo, etc.
+                
+      .py-3.py-md-4.bg26.px-3(titulo="Concordancia de frase")
+        .row.justify-content-center.p-4
+          .col-lg-6.col-md-12.my-3
+            img.img-a.img-t(src='@/assets/curso/tema4/ima40.svg', alt='')
+          .col-lg-6.col-md-12.my-5
+            h4.mb-4 Concordancia de frase:
+            p en este caso Google mostrará anuncios que contengan la frase o variaciones ligeras de esta. Con esta concordancia de frase se tiene un control superior sobre las búsquedas que pueden activar los anuncios de la empresa. Por ejemplo, la frase “curso arte”, esta frase activará anuncios con búsquedas como curso de arte, cursos de arte, cursos de arte online, cursos gratis de arte, etc.
+            
+      .py-3.py-md-4.bg26.px-3(titulo="Concordancia exacta")
+        .row.justify-content-center.p-4
+          .col-lg-6.col-md-12.my-3
+            img.img-a.img-t(src='@/assets/curso/tema4/ima41.svg', alt='')
+          .col-lg-6.col-md-12.my-5
+            h4.mb-4 Concordancia exacta:
+            p este tipo de concordancia activará los anuncios con búsquedas que tengan la palabra exacta o variaciones de ella. De esta forma se tiene control absoluto de los anuncios, es la mejor alternativa en una campaña de Adwords.
+            
+      .py-3.py-md-4.bg26.px-3(titulo="Concordancia negativa")
+        .row.justify-content-center.p-4
+          .col-lg-6.col-md-12.my-3
+            img.img-a.img-t(src='@/assets/curso/tema4/ima42.svg', alt='')
+          .col-lg-6.col-md-12.my-5
+            h4.mb-4 Concordancia negativa:
+            p con este tipo de concordancia lo que se busca es restringir frases que no se desea que activen los anuncios de la empresa.
+
+    .row.align-items-center.justify-content-center.mb-5
+      .col-lg-12.col-md-12.col-12
+        .caja1.p-4
+          .row.align-items-center.justify-content-center
+            .col-lg-2
+              img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema4/ima11.svg")
+            .col-lg-8.col-md-12.col-12
+              h4.mb-0.text-white #[b Recomendado]
+              p.mb-0 En el siguiente enlace se puede hacer una planeación previa de las palabras claves que se pueden utilizar en una campaña de AdWords.
+            .col-lg-2
+              a.boton.color-acento-botones(href="http://www.facebook.com/ads/manage/powereditor" target="_blank")
+                span Enlace
+                i.fas.fa-link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     .h3.mb-4 Selección de palabras claves
 
@@ -833,73 +844,6 @@ export default {
   name: 'Tema4',
   data: () => ({
     // variables de vue
-    datosSlyder: [
-      {
-        titulo: 'Uso de teléfonos móviles, redes sociales e internet',
-        imagen: require('@/assets/curso/tema4/Anexo_1.png'),
-        // leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Dispositivos utilizados por los colombianos',
-        imagen: require('@/assets/curso/tema4/Anexo_2.png'),
-        // leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Tiempo de uso de plataformas y dispositivos',
-        imagen: require('@/assets/curso/tema4/Anexo_3.png'),
-        //leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Resumen del uso de internet',
-        imagen: require('@/assets/curso/tema4/Anexo_4.png'),
-        //leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Uso de internet en dispositivos móviles',
-        imagen: require('@/assets/curso/tema4/Anexo_5.png'),
-        // leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Uso de las redes sociales',
-        imagen: require('@/assets/curso/tema4/Anexo_6.png'),
-        // leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Comportamiento de usuarios de redes sociales',
-        imagen: require('@/assets/curso/tema4/Anexo_7.png'),
-        //leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Redes sociales más utilizadas',
-        imagen: require('@/assets/curso/tema4/Anexo_8.png'),
-        //leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Audiencia en Facebook',
-        imagen: require('@/assets/curso/tema4/Anexo_9.png'),
-        // leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Dispositivos más utilizados para acceder a Facebook',
-        imagen: require('@/assets/curso/tema4/Anexo_10.png'),
-        // leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Audiencia en Instagram',
-        imagen: require('@/assets/curso/tema4/Anexo_11.png'),
-        //leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Edad y sexo de usuarios de Instagram y Facebook',
-        imagen: require('@/assets/curso/tema4/Anexo_12.png'),
-        //leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Audiencia en Twitter',
-        imagen: require('@/assets/curso/tema4/Anexo_13.png'),
-        //leyendaImagen: 'Leyenda de la imagen',
-      },
-    ],
   }),
   mounted() {
     this.$nextTick(() => {

@@ -39,21 +39,22 @@
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-9.col-md-12.col-12
-        LineaTiempoD.color-secundario.bg1
-          .row.bg1.p-4(numero="1" titulo="Atraer")
+        .bg1
+        LineaTiempoD.color-secundario
+          .row.p-4(numero="1" titulo="Atraer")
             .col-md-12.mb-4.mb-md-0
               p La atracción de los clientes potenciales es un minucioso proceso de análisis del mercado, conceptualización, creatividad y estrategias de comunicación, tanto en medios digitales como masivos y alternativos. El principal objetivo en este punto es direccionar el mercado hacia el sitio web de la empresa donde encontrará información útil y relevante y acorde a sus intereses. El desarrollo de estos contenidos debe planearse y desarrollarse con el mayor cuidado posible, haciendo lo necesario para que la información otorgada sea verídica, exclusiva y de calidad. Estos contenidos deberán publicarse en diferentes medios como redes sociales, blogs, en la propia web y en otros portales o sitios en los que el mercado potencial hace presencia; adicionalmente, estos contenidos son indexados en los buscadores, lo que permite el acceso a un flujo alto de personas. También se puede lograr que el mercado potencial llegue al sitio web mediante estrategias SEM, como el pago por clic o pauta en Google Ads, Facebook Ads y otras redes.
           .row.p-4(numero="2" titulo="Convertir")
-            .col-md-6.mb-4.mb-md-0
+            .col-md-12.mb-4.mb-md-0
               p Cuando se ha logrado el propósito de llevar al mercado al sitio web e interesarse por la marca y los contenidos generados, es momento de realizar un registro en las bases de datos de la empresa, para obtener este tipo de datos es necesario ofrecer algo a cambio a los clientes, como contenidos más complejos, participación en sorteos, descuentos especiales en productos o servicios, entre otras estrategias.
           .row.p-4(numero="3" titulo="Seguir")
-            .col-md-6.mb-4.mb-md-0
+            .col-md-12.mb-4.mb-md-0
               p En este punto es necesario conocer el nivel de interés de cada miembro del mercado en el producto o servicio, para ello es necesario hacer algunos análisis y acciones; con el lead scoring se puede calificar a cada cliente en cuanto a su interés por finalizar el proceso de compra; con el e-mail marketing se puede llegar a los clientes de forma automática con información de la empresa que refuerce aquella que ya se ha entregado; el retargeting permite seguir haciendo presencia en la web del cliente, a través de anuncios indexados en otros sitios que visita para reforzar la comunicación en torno a la marca.
           .row.p-4(numero="4" titulo="Cerrar")
-            .col-md-6.mb-4.mb-md-0
+            .col-md-12.mb-4.mb-md-0
               p Una vez el cliente esté seguro de su compra, es importante hacer un cierre con todas las condiciones para que se sienta lo más cómodo y satisfecho posible, es muy importante recalcar que una de las premisas del marketing es facilitarle la vida al mercado; por lo tanto, entre más fácil y confiable sea el proceso de compra mejor será para él y finalmente para la empresa. En este punto es importante garantizar la entrega, facilitar el proceso de pago y otorgar toda la asesoría necesaria para resolver las dudas del comprador o usuario.
           .row.p-4(numero="5" titulo="Enamorar")
-            .col-md-6.mb-4.mb-md-0
+            .col-md-12.mb-4.mb-md-0
               p después de la compra del producto o adquisición del servicio, otro gran objetivo del proceso es conservar al cliente durante un tiempo considerable y obtener de él la mayor cantidad de compras posibles; para ello, la empresa puede hacer uso de estrategias de cross selling, up selling, programas de fidelización y marketing relacional. 
       .col-lg-3.col-md-12.col-12
         img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/img3.png', alt='Texto que describa la imagen')
@@ -65,9 +66,9 @@
         .row.justify-content.mb-5
           .col-lg-6.col-md-12.col-12
             img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img5.svg' alt='AvatarTop')
-            p.mb-5 #[b Atrae al mercado potencial] interesado en el producto o servicio, sin gastar energía en impactos que no llegan al target específico.
+            p.mb-5.br-cus #[b Atrae al mercado potencial] interesado en el producto o servicio, sin gastar energía en impactos que no llegan al target específico.
             img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img6.svg' alt='AvatarTop')
-            p.mb-5 #[b Incrementa el número de registros] en el sitio web y seguidores efectivos en las redes sociales, así como la base de datos para el desarrollo de estrategias.
+            p.mb-5.br-cus #[b Incrementa el número de registros] en el sitio web y seguidores efectivos en las redes sociales, así como la base de datos para el desarrollo de estrategias.
           .col-lg-6.col-md-12.col-12
             img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img7.svg' alt='AvatarTop')
             p.mb-5 #[b Permite un aumento] en el número de visitas al sitio web y en los leads.

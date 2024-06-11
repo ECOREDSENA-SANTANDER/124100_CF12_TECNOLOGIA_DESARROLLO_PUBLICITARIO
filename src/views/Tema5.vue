@@ -10,7 +10,8 @@
     
     #t_5_1.titulo-segundo
       h2 5.1 Post
-
+    
+    p.mb-4 En el siguiente video se realiza una sencilla explicación de la creación de un post en Illustrator
     figure.mb-5
       .video
         <iframe width="990" height="557" src="https://www.youtube.com/embed/ZycQ1BjU7v8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
