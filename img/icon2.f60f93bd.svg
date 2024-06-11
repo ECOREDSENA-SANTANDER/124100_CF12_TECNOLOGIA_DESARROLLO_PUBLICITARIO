@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="63" viewBox="0 0 63 63">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_401537" data-name="Rectángulo 401537" width="63" height="63" transform="translate(455 615)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.655" y1="1.042" x2="0.345" y2="-0.042" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffdb73"/>
+      <stop offset="0.08" stop-color="#fdad4e"/>
+      <stop offset="0.15" stop-color="#fb832e"/>
+      <stop offset="0.19" stop-color="#fa7321"/>
+      <stop offset="0.23" stop-color="#f6692f"/>
+      <stop offset="0.37" stop-color="#e84a5a"/>
+      <stop offset="0.48" stop-color="#e03675"/>
+      <stop offset="0.55" stop-color="#dd2f7f"/>
+      <stop offset="0.68" stop-color="#b43d97"/>
+      <stop offset="0.97" stop-color="#4d60d4"/>
+      <stop offset="1" stop-color="#4264db"/>
+    </linearGradient>
+  </defs>
+  <g id="Enmascarar_grupo_1098724" data-name="Enmascarar grupo 1098724" transform="translate(-455 -615)" clip-path="url(#clip-path)">
+    <g id="instagram" transform="translate(451.821 611.82)">
+      <rect id="Rectángulo_401536" data-name="Rectángulo 401536" width="63" height="63" rx="14.526" transform="translate(3.179 3.179)" fill="url(#linear-gradient)"/>
+      <path id="Trazado_874122" data-name="Trazado 874122" d="M44.839,15.608a9.065,9.065,0,0,1,9.029,9.029V44.722a9.065,9.065,0,0,1-9.029,9.029H24.519a9.065,9.065,0,0,1-9.029-9.029V24.637a9.065,9.065,0,0,1,9.029-9.029h20.32m0-4.2H24.519a13.273,13.273,0,0,0-13.23,13.23V44.722a13.273,13.273,0,0,0,13.23,13.23h20.32a13.273,13.273,0,0,0,13.23-13.23V24.637a13.269,13.269,0,0,0-13.23-13.23Z" fill="#fff"/>
+      <path id="Trazado_874123" data-name="Trazado 874123" d="M34.679,26.84a7.839,7.839,0,1,1-7.839,7.839,7.839,7.839,0,0,1,7.839-7.839m0-4.2A12.039,12.039,0,1,0,46.718,34.679,12.039,12.039,0,0,0,34.679,22.64Z" fill="#fff"/>
+      <circle id="Elipse_11577" data-name="Elipse 11577" cx="2.854" cy="2.854" r="2.854" transform="translate(44.127 19.258)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
