@@ -37,66 +37,66 @@ export default {
       },
       {
         nombreRuta: 'introduccion',
-        icono: 'fas fa-info',
+        icono: 'fas fa-info-circle',
         titulo: 'Introducción',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema1',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '1',
         titulo: 'Contenidos digitales',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '2',
-        titulo: 'Inbound marketing',
+        titulo: '<em>Inbound marketing</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '2.1',
-            titulo: '¿En qué consiste el inbound marketing?',
+            titulo: '¿En qué consiste el <em>inbound marketing</em>?',
             hash: 't_2_1',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '2.2',
-            titulo: 'Etapas del inbound marketing',
+            titulo: 'Etapas del <em>inbound marketing</em>',
             hash: 't_2_2',
           },
         ],
       },
       {
         nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '3',
         titulo: 'Medios digitales',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '4',
         titulo: 'Publicidad en medios digitales',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '4.1',
             titulo: 'Estadísticas',
             hash: 't_4_1',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '4.2',
             titulo: 'Facebook Ads',
             hash: 't_4_2',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '4.3',
             titulo: 'Google Adwords',
             hash: 't_4_3',
@@ -105,93 +105,99 @@ export default {
       },
       {
         nombreRuta: 'tema5',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '5',
         titulo: 'Diseño de contenidos para Instagram',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '5.1',
-            titulo: 'Post',
+            titulo: '<em>Post</em>',
             hash: 't_5_1',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '5.2',
-            titulo: 'Stories',
+            titulo: '<em>Stories</em>',
             hash: 't_5_2',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '5.3',
-            titulo: 'Gif',
+            titulo: '<em>Gif</em>',
             hash: 't_5_3',
           },
         ],
       },
       {
         nombreRuta: 'tema6',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '6',
         titulo: 'Diseño de contenidos para Facebook',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '6.1',
             titulo: 'Imagen de perfil',
             hash: 't_6_1',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '6.2',
             titulo: 'Portada',
             hash: 't_6_2',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '6.3',
-            titulo: 'Post',
+            titulo: '<em>Post</em>',
             hash: 't_6_3',
           },
         ],
       },
       {
         nombreRuta: 'tema7',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '7',
         titulo: 'Diseño de contenidos para Twitter',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '7.1',
-            titulo: 'Gif con ilustración',
+            titulo: '<em>Gif</em> con ilustración ',
             hash: 't_7_1',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '7.2',
             titulo: 'Cabecera',
             hash: 't_7_2',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '7.3',
-            titulo: 'Post',
+            titulo: '<em>Post</em>',
             hash: 't_7_3',
           },
         ],
       },
     ],
     subMenu: [
-      /*{
+      {
+        icono: 'fas fa-sitemap',
+        titulo: 'Síntesis',
+        nombreRuta: 'sintesis',
+        desarrolloContenidos: true,
+      },
+      {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      },*/
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -206,6 +212,11 @@ export default {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
+      },
+      {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/',
       },
       {
         icono: 'fas fa-download',
@@ -234,35 +245,41 @@ export default {
     {
       referencia:
         'Cibrián, I. (2018). Marketing Digital, Mide, Analiza y Mejora. ESIC Editorial.',
+      link: '',
     },
     {
       referencia:
         'Gutiérrez, C. (2010). Creatividad Publicitaria Eficaz. Studio Divine Egg.',
+      link: '',
     },
     {
       referencia:
         'Labarta, F. (2014). Guía Para Crear Mensajes y Contenidos. Economía y Empresa.',
+      link: '',
     },
     {
       referencia: 'Medina, A. (2015). Introducción a la Publicidad. Pirámide.',
+      link: '',
     },
     {
       referencia:
-        'Ortiz, R. (2008). Qué es la Abstracción en el Diseño Gráfico y Cuántas Formas Existen.',
+        'Ortiz, R. (2008). Qué es la Abstracción en el Diseño Gráfico y Cuántas Formas Existen. https://www.roc21.com/2008/05/24/abstraccion/',
       link: 'https://www.roc21.com/2008/05/24/abstraccion/',
     },
     {
       referencia:
         'Sabbagh, A. (2012). Método De La Innovación Creativa. Granica.',
+      link: '',
     },
     {
       referencia:
         'Sainz, J. M. (2018). El Plan de Marketing Digital en la Práctica. Editorial ESIC.',
+      link: '',
     },
     {
       referencia:
         'Unitcoms. (s.f.). Cómo Usar Google Adwords: Guía Paso a Paso.',
-      link: 'https://www.initcoms.com/que-es-google-adwords/ ',
+      link: 'https://www.initcoms.com/que-es-google-adwords/',
     },
     {
       referencia: 'Vega. E. (s.f.). Definición y Orígenes del Audiovisual.',
@@ -273,7 +290,7 @@ export default {
     {
       termino: 'Audiovisual',
       significado:
-        '“significa la integración e interrelación plena entre lo auditivo y lo visual para producir una nueva realidad o lenguaje. La percepción es simultánea. Se crean así nuevas realidades sensoriales mediante mecanismos como la armonía complementaria, refuerzo y contraste” (Vega, s.f.).',
+        '“significa la integración e interrelación plena entre lo auditivo y lo visual para producir una nueva realidad o lenguaje. La percepción es simultánea. Se crean así nuevas realidades sensoriales mediante mecanismos como la armonía, complementaria, refuerzo y contraste” (Vega, s.f.).',
     },
     {
       termino: 'Efecto lomográfico',
@@ -286,14 +303,14 @@ export default {
         'es una compañía de origen estadounidense que ofrece servicios de redes sociales y medios sociales en línea con sede en Menlo Park, California.',
     },
     {
-      termino: 'Gif',
+      termino: '<em>Gif</em>',
       significado:
-        'la palabra Gif es una sigla que significa Graphics Interchange Format o en español, Formato de Intercambio de Gráficos. Este formato de imagen fue creado en 1987 por Steve Wilhite en Compuserve, una compañía de comunicaciones norteamericana. El archivo Gif es la mínima expresión o recurso gráfico en relación con su peso que permite crear una animación para realizar un anuncio, lanzar un mensaje o contar una pequeña historia. El archivo Gif está limitado a mostrar su contenido en solo 256 colores, lo cual equivale a una profundidad de color de 8 bits.',
+        'la palabra <em>Gif</em> es una sigla que significa Graphics Interchange Format o en español, Formato de Intercambio de Gráficos. Este formato de imagen fue creado en 1987 por Steve Wilhite en Compuserve, una compañía de comunicaciones norteamericana. El archivo <em>Gif</em> es la mínima expresión o recurso gráfico en relación con su peso que permite crear una animación para realizar un anuncio, lanzar un mensaje o contar una pequeña historia. El archivo <em>Gif</em> está limitado a mostrar su contenido en solo 256 colores, lo cual equivale a una profundidad de color de 8 bits.',
     },
     {
       termino: 'Instagram',
       significado:
-        'es una aplicación y red social de origen estadounidense, propiedad de Facebook, cuya función principal es poder compartir fotografías y videos con otros usuarios. Está disponible para dispositivos Android, iOS y Windows 10. Creada por Kevin Systrom y Mike Krieger, Instagram fue lanzada en octubre de 2010.',
+        'es una aplicación y red social de origen estadounidense, propiedad de Facebook, cuya función principal es poder compartir fotografías y vídeos con otros usuarios. Está disponible para dispositivos Android, iOS y Windows 10. Creada por Kevin Systrom y Mike Krieger, Instagram fue lanzada en octubre de 2010.',
     },
     {
       termino: 'Paleta de colores',
@@ -308,156 +325,141 @@ export default {
     {
       termino: 'Twitter',
       significado:
-        'es un servicio de microblogueo, con sede en San Francisco, California, EE. UU., con filiales en San Antonio y Boston en Estados Unidos. Twitter, Inc. fue creado originalmente en California, pero está bajo la jurisdicción de Delaware desde 2007. ',
+        'es un servicio de microblogueo, con sede en San Francisco, California, EE. UU., con filiales en San Antonio y Boston en Estados Unidos. Twitter, Inc. fue creado originalmente en California, pero está bajo la jurisdicción de Delaware desde 2007.',
     },
   ],
   complementario: [
     {
-      texto:
+      tema: 'Estadísticas',
+      referencia:
         'Branch. (2020). Estadísticas de la situación digital de Colombia en el 2019 y 2020.',
       tipo: 'Página web',
       link:
         'https://branch.com.co/marketing-digital/estadisticas-de-la-situacion-digital-de-colombia-en-el-2019-y-2020/',
     },
     {
-      texto: 'Facebook. (2020). Edición y configuración de campañas.',
-      tipo: 'Pagina web',
-      link: 'http://www.facebook.com/ads/manage/powereditor',
+      tema: 'Diseño de contenidos para Facebook',
+      referencia: 'Facebook. (2020). Anuncios de Facebook.',
+      tipo: 'Página web',
+      link: 'https://www.facebook.com/ads/tools/text_overlay',
     },
     {
-      texto:
-        'Google. (2020). Planeación previa de las palabras claves que se pueden utilizar en una campaña de Adwords.',
+      tema: 'Diseño de contenidos para Facebook',
+      referencia: 'Facebook. (2020). Edición y configuración de campañas.',
+      tipo: 'Página web',
+      link: 'www.facebook.com/ads/manage/powereditor',
+    },
+    {
+      tema: 'Google Adwords',
+      referencia:
+        'Google. (2020). planeación previa de las palabras claves que se pueden utilizar en una campaña de Adwords.',
       tipo: 'Página web',
       link: 'https://ads.google.com/home/',
     },
   ],
-  creditos: {
-    liderEquipo: [
-      {
-        nombre: 'Maria Camila Garcia Santamaria',
-        cargo: 'Líder del equipo',
-        centro: 'Dirección General',
-      },
-    ],
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Manuel Augusto Arias López',
-        cargo: 'Instructor – Experto temático',
-        centro: 'Centro de Comercio y Servicios Regional Quindío',
-      },
-      {
-        nombre: 'Andrea Velásquez Torres',
-        cargo: 'Apoyo experto temático',
-        centro: 'Centro de Comercio y Servicios Regional Quindío',
-      },
-      {
-        nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Diseñador instruccional',
-        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
-      },
-      {
-        nombre: 'Vilma Perilla Méndez',
-        cargo: 'Evaluadora instruccional',
-        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
-      },
-      {
-        nombre: 'Julieth Paola Vital López',
-        cargo: 'Correctora de estilo',
-        centro:
-          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
-      },
-      {
-        nombre: 'Sandra Patricia Hoyos Sepúlvea',
-        cargo: 'Edición y corrección de estilo',
-        centro:
-          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: ['Blanca Flor Tinoco Torres'],
-        cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Carlos Eduardo Garavito Parada',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Gilberto Junior Rodríguez Rodríguez',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'José Jaime Luis Tang Pinzón',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'María Camila Ovalle Ospina',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'María Carolina Tamayo López ',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Wilson Andrés Arenales Cáceres',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Zuleidy Maria Ruiz Torres',
-        cargo: 'Producción audiovisual',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: 'John Andres Ayala Angarita',
-        cargo: 'Desarrollo front-end',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Jenny Paola Montillo Gélvez',
-        cargo: 'Validación de diseño y contenido',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-    ],
+  creditos: [
+    {
+      titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Responsable del Ecosistema',
+          centro: 'Dirección General',
+        },
+        {
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de Línea de Producción',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+      ],
+    },
+    {
+      titulo: 'CONTENIDO INSTRUCCIONAL',
+      autores: [
+        {
+          nombre: 'Manuel Augusto Arias López',
+          cargo: 'Instructor - Experto temático ',
+          centro: 'Regional Quindío - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Vilma Perilla Méndez',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Andrea Velásquez Torres',
+          cargo: 'Apoyo Experto temático',
+          centro: 'Regional Quindío - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Edición y Corrección de Estilo',
+          centro: 'Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor Pedagógico',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Carolina Jiménez Suescún',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+      ],
+    },
+    {
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Edison Eduardo Mantilla Cuadros',
+          cargo: 'Diseñador de Contenidos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Pedro Alonso Bolivar Gonzalez',
+          cargo: 'Desarrollador <em>Fullstack</em>',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+      ],
+    },
+    {
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      autores: [
+        {
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+      ],
+    },
+  ],
+  creditosAdicionales: {
+    imagenes:
+      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
+    creativeCommons:
+      'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
   // creditosInicio: [
   //   {

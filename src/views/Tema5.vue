@@ -9,27 +9,31 @@
 
     
     #t_5_1.titulo-segundo
-      h2 5.1 Post
+      h2 5.1 #[em Post]
     
-    p.mb-4 En el siguiente video se realiza una sencilla explicación de la creación de un post en Illustrator
-    figure.mb-5
+    p.mb-4 En el siguiente video se realiza una sencilla explicación de la creación de un #[em post] en Illustrator
+    
+    figure
       .video
         <iframe width="990" height="557" src="https://www.youtube.com/embed/ZycQ1BjU7v8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      figcaption Video: Leyenda del video
       
-
+    Separador
     #t_5_2.titulo-segundo
-      h2 5.2 Stories
+      h2 5.2 #[em Stories]
 
-    figure.mb-5
+    figure
       .video
         <iframe width="990" height="557" src="https://www.youtube.com/embed/4pTCdAuuSao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+      figcaption Video: Leyenda del video
+    Separador
     #t_5_3.titulo-segundo
-      h2 5.3 Gif
+      h2 5.3 #[em Gif]
 
-    figure.mb-5
+    figure
       .video
         <iframe width="990" height="557" src="https://www.youtube.com/embed/H6vXuqEGkws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      figcaption Video: Leyenda del video
       
 
 
