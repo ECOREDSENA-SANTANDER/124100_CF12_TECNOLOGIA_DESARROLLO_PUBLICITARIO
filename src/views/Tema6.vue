@@ -9,29 +9,32 @@
 
     #t_6_1.titulo-segundo
       h2 6.1 Imagen de perfil
-
+    
+    p.mb-4 En el siguiente video se explica la manera de crear una imagen de perfil para Facebook en la plataforma Illustrator.
     figure
       .video
-        <iframe width="990" height="557" src="https://www.youtube.com/embed/-8hXyIbL6wI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      figcaption Video: Leyenda del video
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/BoOx6QM0BSY?si=rc4KxJ3NJqOi4NBH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      figcaption Video: Imagen De Perfil - #[em Facebook]
     
     Separador
     #t_6_2.titulo-segundo
       h2 6.2 Portada
-
+    
+    p.mb-4 En el siguiente video se presentan las características de la imagen de portada de Facebook y se explica de manera sencilla la manera de crearla en la plataforma Illustrator.
     figure
       .video
-        <iframe width="990" height="557" src="https://www.youtube.com/embed/nfSwvHs7-PA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      figcaption Video: Leyenda del video
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/S-rJSguKTwI?si=7syH00MpqUwJYExR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      figcaption Video: Portada - #[em Facebook]
     
     Separador
     #t_6_3.titulo-segundo
       h2 6.3 #[em Post]
-
+    
+    p.mb-4 En el siguiente video se presentan las características de una imagen para realizar un post en Facebook:
     figure
       .video
-        <iframe width="990" height="557" src="https://www.youtube.com/embed/j2C8M2xE-dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-      figcaption Video: Leyenda del video
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/MvlNXgCzsQA?si=3YDVfJcBPPHg9s1q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      figcaption Video: Post #[em Facebook]
 
 </template>
 

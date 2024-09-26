@@ -7,7 +7,7 @@
         span 4
       h1 Publicidad en medios digitales
     
-    .row.justify-content-center.align-items-center.mb-5 
+    .row.justify-content-center.align-items-center
       .col-lg-1
         img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema4/img01.svg', alt='Infografías', style="width:86px;")
       .col-lg-11.col-sm-12
@@ -28,59 +28,60 @@
                 SlyderA(tipo="b").p-3
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
-                      p.mb-4 A principios de 2024, alrededor del 82.5% de la población de Colombia vivía en centros urbanos.
+                      p.mb-4 A principios de 2024, alrededor del 82.5 % de la población de Colombia vivía en centros urbanos.
                       p.mb-4 El número de conexiones móviles celulares activas en el país es de 77.02 millones, cifra equivalente al 147.5 % de la población total.
-                      p.mb-4 Por otro lado, el número de usuarios conectados a Internet es de 39.51 millones, es decir, el 75.7% de la población, y los usuarios activos en redes sociales son 36.70 millones .
+                      p.mb-4 Por otro lado, el número de usuarios conectados a Internet es de 39.51 millones, es decir, el 75.7 % de la población, y los usuarios activos en redes sociales son 36.70 millones .
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
                         h5 Figura 1. 
                         | Uso de teléfonos móviles, redes sociales e internet
                       figure
                         img(src='@/assets/curso/tema4/img02.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre uso de teléfonos móviles, redes sociales e internet.')
-                                      
+                        figcaption Nota. Ver anexo 1         
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
                       p.mb-4 Este análisis se realizó en usuarios comprendidos entre los 16 a 64 años: 
                       ul.lista-ul
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Teléfono celular (cualquier tipo) 98.8%.]
+                          p.mb-0 #[b Teléfono celular (cualquier tipo) 98.8 %.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Teléfonos inteligentes (#[em Smartphone]) 98.5%.]
+                          p.mb-0 #[b Teléfonos inteligentes (#[em Smartphone]) 98.5 %.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Teléfono móvil no inteligente: 12.1%.]
+                          p.mb-0 #[b Teléfono móvil no inteligente: 12.1 %.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Laptop u ordenador de escritorio (pc): 66.4%.]
+                          p.mb-0 #[b Laptop u ordenador de escritorio (pc): 66.4 %.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b #[em Tablets]: 27.3%]
+                          p.mb-0 #[b #[em Tablets]: 27.3 %]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Dispositivo de streaming de TV 18.6%]
+                          p.mb-0 #[b Dispositivo de streaming de TV 18.6 %]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Consola de videojuegos: 24.5%]
+                          p.mb-0 #[b Consola de videojuegos: 24.5 %]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Dispositivo inteligente para el hogar (Smart Home) 11.5%.]
+                          p.mb-0 #[b Dispositivo inteligente para el hogar (Smart Home) 11.5 %.]
                         li.d-flex.mb-0
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Relojes inteligentes: 26.3%.]
+                          p.mb-0 #[b Relojes inteligentes: 26.3 %.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 #[b Dispositivos de realidad virtual: 4.6%.]
+                          p.mb-4 #[b Dispositivos de realidad virtual: 4.6 %.]
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
                         h5 Figura 2. 
                         | Dispositivos utilizados por los colombianos
                       figure
                         img(src='@/assets/curso/tema4/img03.svg', alt='La figura presenta graficación en círculos de  resultados de encuesta sobre  dispositivos utilizados por los colombianos.')
-                        
+                        figcaption Nota. Ver anexo 2
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
+                      p Este análisis se realizó en usuarios comprendidos entre los 16 a 64 años:
                       ul.lista-ul
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
@@ -113,10 +114,10 @@
                         | Tiempo de uso de plataformas y dispositivos
                       figure
                         img(src='@/assets/curso/tema4/img04.svg', alt='La figura presenta graficación en círculos de resultados  de encuesta sobre tiempo de uso de plataformas y dispositivos')
-                      
+                        figcaption Nota. Ver anexo 3
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
-                      p
+                      p 
                       ul.lista-ul
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
@@ -134,7 +135,7 @@
                         | Resumen del uso de internet
                       figure
                         img(src='@/assets/curso/tema4/img05.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen del uso de internet.')
-                      
+                        figcaption Nota. Ver anexo 4
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
                       ul.lista-ul
@@ -146,14 +147,14 @@
                           p.mb-0 #[b Velocidad media de conexión fija: 111.81 Mbps.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Aumento de 1.44 Mbps (+13.3%) en la conexión móvil y 22.18 Mbps (+24.7%) en la conexión fija en los doce meses anteriores a 2024.]
+                          p.mb-0 #[b Aumento de 1.44 Mbps (+13.3 %) en la conexión móvil y 22.18 Mbps (+24.7 %) en la conexión fija en los doce meses anteriores a 2024.]
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
                         h5 Figura 5. 
-                        | Uso de internet en dispositivos móviles
+                        | Velocidades de conexión a Internet
                       figure
                         img(src='@/assets/curso/tema4/img06.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre las velocidades de conexión a internet.')
-                        
+                        figcaption Nota. Ver anexo 5
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
                       p.mb-4 El 70.3 de la población total de Colombia es usuaria activa en redes sociales, es decir, 36.7 millones de personas. 
@@ -165,55 +166,55 @@
                         | Uso de las redes sociales
                       figure
                         img(src='@/assets/curso/tema4/img07.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen del uso de redes sociales')
-                      
+                        figcaption Nota. Ver anexo 6
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
-    
+                      p Este análisis se realizó en usuarios comprendidos entre los 16 a 64 años:
                       ul.lista-ul
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b WhatsApp: 92.2%.]
+                          p.mb-0 #[b WhatsApp: 92.2 %.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Facebook: 89.2%.]
+                          p.mb-0 #[b Facebook: 89.2 %.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Instagram: 86.7%.]
+                          p.mb-0 #[b Instagram: 86.7 %.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Messenger: 68.2%.]
+                          p.mb-0 #[b Messenger: 68.2 %.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b TikTok: 67.8%.]
+                          p.mb-0 #[b TikTok: 67.8 %.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Telegram:53.6%.]
+                          p.mb-0 #[b Telegram:53.6 %.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b X(Twitter): 49.3%.]
+                          p.mb-0 #[b X(Twitter): 49.3 %.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Pinterest: 44.6%.]
+                          p.mb-0 #[b Pinterest: 44.6 %.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Linkedin: 33.5%.]
+                          p.mb-0 #[b Linkedin: 33.5 %.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 #[b Snapchat: 22.3%.]
+                          p.mb-4 #[b Snapchat: 22.3 %.]
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
                         h5 Figura 7. 
                         | Comportamiento de usuarios de redes sociales
                       figure
                         img(src='@/assets/curso/tema4/img08.svg', alt='La figura presenta graficación en barras horizontales, de los resultados de encuesta sobre redes sociales más utilizadas.')
-                        
+                        figcaption Nota. Ver anexo 7
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
                       p.mb-4 Los datos publicados en los recursos publicitarios de Meta indican que:
                       ul.lista-ul
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Facebook tenía 36.70 millones de usuarios en Colombia a principios de 2024, el 70.3% de la población total.]
+                          p.mb-0 #[b Facebook tenía 36.70 millones de usuarios en Colombia a principios de 2024, el 70.3 % de la población total.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
                           p.mb-0 #[b El alcance potencial de los anuncios de Facebook en Colombia aumentó en  9.6 %, 3.2 millones de usuarios más entre enero de 2023 y enero de 2024.]
@@ -223,7 +224,7 @@
         
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 #[b El 50.9% de la audiencia publicitaria de Facebook en Colombia eran mujeres, mientras que el 49.1% son hombres.]
+                          p.mb-4 #[b El 50.9 % de la audiencia publicitaria de Facebook en Colombia eran mujeres, mientras que el 49.1 % son hombres.]
                     
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
@@ -231,7 +232,7 @@
                         | Audiencia en Facebook
                       figure
                         img(src='@/assets/curso/tema4/img09.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen de la audiencia de Facebook.')
-                    
+                        figcaption Nota. Ver anexo 8
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
                       p.mb-4 Los números publicados en las herramientas publicitarias de Meta indican que Instagram tenía:
@@ -251,14 +252,14 @@
                           p.mb-0 #[b El alcance potencial de los anuncios de Instagram en Colombia aumentó en  13.0 %, 2.3 millones de usuarios más entre enero de 2023 y enero de 2024.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 #[b El 56.8% de la audiencia publicitaria de Instagram en Colombia eran mujeres, mientras que el 43.2% eran hombres.]
+                          p.mb-4 #[b El 56.8 % de la audiencia publicitaria de Instagram en Colombia eran mujeres, mientras que el 43.2 % eran hombres.]
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
                         h5 Figura 9. 
                         | Audiencia en Instagram
                       figure
                         img(src='@/assets/curso/tema4/img101.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre audiencia en Instagram.')
-                        
+                        figcaption Nota. Ver anexo 9
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
                       p.mb-4 Las cifras publicadas en los recursos publicitarios de X (Twitter) indican que:
@@ -274,86 +275,14 @@
                           p.mb-0 #[b El alcance potencial de los anuncios de X en Colombia aumentó en 0.7 %, 40 mil de usuarios más entre principios de 2023 y principios de 2024.]
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 #[b El 36.2% de la audiencia publicitaria de Twitter en Colombia eran mujeres, mientras que el 63.8% eran hombres.]      
+                          p.mb-4 #[b El 36.2 % de la audiencia publicitaria de Twitter en Colombia eran mujeres, mientras que el 63.8 % eran hombres.]      
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
                         h5 Figura 10. 
                         | Audiencia en  X (Twitter)
                       figure
                         img(src='@/assets/curso/tema4/img102.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen de la audiencia en Twitter.')
-                        
-                  .row.justify-content-center.align-items-center
-                    .col-lg-7.col-sm-12
-                      p.mb-4 Tomando como base los 12 millones de usuarios de Instagram se tiene que:
-                      ul.lista-ul.mb-4
-                        li.d-flex.mb-0 
-                          i.fas.fa-circle-check
-                          p.mb-0 #[b El número de usuarios de Instagram ubicados en Colombia que pueden ser alcanzado a través de anuncios publicitarios es de 12 millones.]
-                        li.d-flex.mb-0 
-                          i.fas.fa-circle-check
-                          p.mb-0 #[b El 29% de la población activa en redes sociales es mayor de 13 años.]
-                        li.d-flex.mb-0 
-                          i.fas.fa-circle-check
-                          p.mb-0 #[b El 56.4% son mujeres.]
-                        li.d-flex.mb-0 
-                          i.fas.fa-circle-check
-                          p.mb-0 #[b El 46.3% son hombres.]
-                        li.d-flex.mb-0 
-                          i.fas.fa-circle-check
-                          p.mb-0 #[b Lo que quiere decir, que existen más mujeres registradas en Instagram que hombres.]
-                      p.mb-4 En conclusión, el grupo de usuarios entre los 25 y los 34 años es el que usan más estas plataformas, representando el 31.2% de la audiencia total.
-                    .col-lg-5.col-sm-12
-                      .titulo-sexto.color-secundario
-                        h5 Figura 11. 
-                        | Audiencia en Instagram
-                      figure
-                        img(src='@/assets/curso/tema4/img103.svg', alt='La figura presenta diagrama con el proceso de creación de valor mediante circulos empezando por conocer deseos y necesidades de los clientes, continuando con diseñar estrategias impulsadas por los clientes, elaborar progrmas de marketing que de  valor al cliente, integración  y satisfacción superiores y finalmente captar valor y obtener utilidades')
-                        
-                  .row.justify-content-center.align-items-center
-                    .col-lg-7.col-sm-12
-                      p.mb-3 Tomando como 100% el número total de la audiencia de Instagram, Facebook y FB Messenger que visualiza anuncios publicitarios, se tiene que:
-                      ul.lista-ul.mb-3
-                        li.d-flex.mb-0 
-                          i.fas.fa-circle-check
-                          p.mb-0 #[b El 3.2% del público femenino y el 2.9% del público masculino se encuentra entre los 13 a 17 años de edad.]
-                        li.d-flex.mb-0 
-                          i.fas.fa-circle-check
-                          p.mb-0 #[b El 12.9% de las mujeres y el 13.2% de los hombres se encuentran entre los 18 a 24 años de edad.]
-                        li.d-flex.mb-0 
-                          i.fas.fa-circle-check
-                          p.mb-0 #[b El 15.6% de mujeres y el 15.6% de hombres se encuentra entre los 25 a 34 años de edad.]
-                        li.d-flex.mb-0 
-                          i.fas.fa-circle-check
-                          p.mb-0 #[b El 9.1% de las mujeres y el 8.2% de los hombres se encuentran entre los 35 a 44 años.]
-                        li.d-flex.mb-0 
-                          i.fas.fa-circle-check
-                          p.mb-0 #[b El 5.3% del público femenino y el 4.7% del público masculino se encuentra entre los 45 a 54 años.]
-                        li.d-flex.mb-0 
-                          i.fas.fa-circle-check
-                          p.mb-0 #[b El 3.2% de las mujeres y el 2.6% de los hombres se encuentran entre 55 a 64 años.]
-                        li.d-flex.mb-0 
-                          i.fas.fa-circle-check
-                          p.mb-0 #[b El 1.8% de las mujeres y el 1.5% de los hombres es mayor de 65 años.]
-                      p.mb-3 En conclusión, el grupo de usuarios entre los 25 y los 34 años es el que usan más estas plataformas, representando el 31.2% de la audiencia total.        
-                    .col-lg-5.col-sm-12
-                      .titulo-sexto.color-secundario
-                        h5 Figura 12. 
-                        | Edad y sexo de usuarios de Instagram y Facebook
-                      figure
-                        img(src='@/assets/curso/tema4/img104.svg', alt='La figura presenta diagrama con el proceso de creación de valor mediante circulos empezando por conocer deseos y necesidades de los clientes, continuando con diseñar estrategias impulsadas por los clientes, elaborar progrmas de marketing que de  valor al cliente, integración  y satisfacción superiores y finalmente captar valor y obtener utilidades')
-                    
-                  .row.justify-content-center.align-items-center
-                    .col-lg-7.col-sm-12
-                      p.mb-4 El número de usuarios de X ubicados en Colombia que pueden ser alcanzados a través de anuncios publicitarios es de 3.2 millones. Esto representa el 7.8% de la población activa en redes sociales mayor de 13 años.
-                      p.mb-4 El porcentaje de cambios trimestrales en los anuncios de X es más del 1.6%.
-                      p.mb-4 Tomando como base esas 3.2 millones de personas, se tiene que el 37.1% son mujeres y el 62.9% son hombres, es decir, hay más hombres registrados en X que las mujeres.
-                    .col-lg-5.col-sm-12
-                      .titulo-sexto.color-secundario
-                        h5 Figura 13. 
-                        | Audiencia en X
-                      figure
-                        img(src='@/assets/curso/tema4/img105.svg', alt='La figura presenta diagrama con el proceso de creación de valor mediante circulos empezando por conocer deseos y necesidades de los clientes, continuando con diseñar estrategias impulsadas por los clientes, elaborar progrmas de marketing que de  valor al cliente, integración  y satisfacción superiores y finalmente captar valor y obtener utilidades')
-                        figcaption Nota. Ver anexo 13 
+                        figcaption Nota. Ver anexo 10
     
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-12.col-md-12.col-12
@@ -362,8 +291,8 @@
             .col-lg-2
               img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema4/ima11.svg")
             .col-lg-8.col-md-12.col-12
-              h4.mb-0.text-white #[b Recomendado]
-              p.mb-0 Si desea ver las estadísticas completas, lo puede hacer ingresando al siguiente enlace:
+              h4.mb-3.text-white #[b Recomendado]
+              p.mb-3 Si desea conocer las #[b estadísticas completas,] lo puede hacer ingresando al siguiente enlace:
             .col-lg-2
               a.boton.color-acento-botones(href="https://branch.com.co/marketing-digital/estadisticas-de-la-situacion-digital-de-colombia-en-el-2019-y-2020/" target="_blank")
                 span Enlace
@@ -599,13 +528,9 @@
             .row.justify-content-center.align-items-center
               .col-lg-12
                 .cajam.mb-4.p-1.my-4
-                  h4.text-center.text-white.mb-0 20% máximo de texto
-              p.text-center En los anuncios de Facebook deben predominar las imágenes, por ello el texto no debe ocupar más del 20% del total. En el siguiente enlace se puede medir esta proporción: 
-              a.anexo.mb-4.mb-lg-0(href="https://www.facebook.com/ads/tools/text_overlay" target="_blank")
-                .anexo__icono
-                  img(src="@/assets/template/icono-link.svg")
-                .anexo__texto.not
-                  p #[b Enlace #[em web].] https://www.facebook.com/ads/tools/text_overlay
+                  h4.text-center.text-white.mb-0 20 % máximo de texto
+              p.text-center En los anuncios de Facebook deben predominar las imágenes, por ello el texto no debe ocupar más del 20 % del total.
+            
       .col-lg-3.col-12.col-md-6.mb-3
         .tarjeta-avatar.sin
           .bg155.p-4.h-100.p-5
@@ -645,7 +570,7 @@
               img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema4/ima11.svg")
             .col-lg-8.col-md-12.col-12
               h4.mb-3.text-white #[b Recomendado]
-              p.mb-0 En el siguiente enlace se puede realizar la edición y configuración de las campañas, teniendo en cuenta que debe tener una cuenta en Facebook Manager para ello.
+              p.mb-3 En el siguiente enlace se puede realizar la edición y configuración de las campañas, teniendo en cuenta que debe tener una cuenta en Facebook Manager para ello.
             .col-lg-2
               a.boton.color-acento-botones(href="http://www.facebook.com/ads/manage/powereditor" target="_blank")
                 span Enlace
@@ -673,7 +598,7 @@
           div.bg15.p-4.h-100.p-5
             .row.justify-content-center.my-5
               .col-lg-12
-                h4.mb-2.my-5 #[b 2. Red display:] 
+                h4.mb-2.my-5 #[b 2. Red #[em display]:] 
                 p.mb-0 está conformada por todos los portales y sitios asociados a Google a través de Adsense o en sitios que pertenecen a Google como Gmail o YouTube. Esta red permite llegar a un gran número de personas y generar un alto posicionamiento de marca. 
             
     .d-flex.mb-4  
@@ -740,7 +665,7 @@
         p.text-center #[b Características demográficas:] de la misma forma que otras plataformas de publicidad digital, en Google es posible también segmentar el mercado por edad, sexo o ingreso familiar.
     
     .d-flex.mb-4  
-      h3.title-card-acento-contenido Adwords express
+      h3.title-card-acento-contenido #[em Adwords express]
     
     .row.justify-content-center.align-items-center.mb-5 
       .col-lg-1
@@ -797,7 +722,7 @@
               h4.mb-3.text-white #[b Recomendado]
               p.mb-3 En el siguiente enlace se puede hacer una planeación previa de las #[b palabras claves] que se pueden utilizar en una campaña de AdWords.
             .col-lg-2
-              a.boton.color-acento-botones(href="http://www.facebook.com/ads/manage/powereditor" target="_blank")
+              a.boton.color-acento-botones(href="https://ads.google.com/home/" target="_blank")
                 span Enlace
                 i.fas.fa-link
                 
@@ -817,7 +742,7 @@
                 img.img-a.img-t(alt="" src="@/assets/curso/tema4/1.svg")
               .row.justify-content-center(data-aos="zoom-in-left")
                 .col-lg-12.col-md-12.col-12
-                  p.mb-0 #[b Mensaje directo y claro:] el mensaje debe ser lo más comprensible posible, los anuncios que se promocionan a través de la red de Google son de visualización rápida por lo que es recomendable ser directos, adicional es importante recordar que estos deben direccionar a una landing page.
+                  p.mb-0 #[b Mensaje directo y claro:] el mensaje debe ser lo más comprensible posible, los anuncios que se promocionan a través de la red de Google son de visualización rápida por lo que es recomendable ser directos, adicional es importante recordar que estos deben direccionar a una #[em landing page.]
         .col-lg-4.mb-4.mb-lg-0
           .crd.crd--grayGrad(data-aos="flip-left")
             .row.justify-content.align-items-center(data-aos="zoom-in-left")
@@ -833,7 +758,7 @@
                 img.img-a.img-t(alt="" src="@/assets/curso/tema4/3.svg")
               .row.justify-content-center(data-aos="zoom-in-left")
                 .col-lg-12.col-md-12.col-12
-                  p.mb-0 #[b Incluir un Call to Action:] los imperativos o mandatarios hacen que los clientes se motiven a hacer clic en el anuncio, por ejemplo < llama ya >, < visítanos >, etc.
+                  p.mb-0 #[b Incluir un #[em Call to Action:]] los imperativos o mandatarios hacen que los clientes se motiven a hacer clic en el anuncio, por ejemplo < llama ya >, < visítanos >, etc.
 
       .row.justify-content-center.mb-5
         .col-lg-4.mb-4.mb-lg-0
@@ -851,7 +776,7 @@
                 img.img-a.img-t(alt="" src="@/assets/curso/tema4/5.svg")
               .row.justify-content-center(data-aos="zoom-in-left")
                 .col-lg-12.col-md-12.col-12
-                  p.mb-0 #[b Body copy:] debe tener un máximo de 35 caracteres, ser claro en qué producto o servicio se está comercializando y contener un Call to Action.
+                  p.mb-0 #[b #[em Body copy:]] debe tener un máximo de 35 caracteres, ser claro en qué producto o servicio se está comercializando y contener un #[em Call to Action.]
         .col-lg-4.mb-4.mb-lg-0
           .crd.crd--grayGrad(data-aos="flip-left")
             .row.justify-content.align-items-center(data-aos="zoom-in-left")

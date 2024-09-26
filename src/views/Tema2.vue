@@ -16,20 +16,13 @@
         p.mb-0(data-aos="zoom-in-left") Para entender un poco mejor en qué consiste en #[em inbound,] es necesario hacer referencia al #[em outbound] -desarrollo de acciones por parte de la empresa, con el fin de buscar a los clientes a través de campañas publicitarias realizadas en los medios convencionales-. El mensaje a comunicar con el #[em inbound marketing] es básicamente la exaltación de atributos del producto, ventajas competitivas o beneficios que recibirá el cliente. Además, con los medios convencionales se puede llegar de forma masiva para captar miembros del mercado potencial.
 
     Separador
-    #t_2_1.titulo-segundo.mb-4
+    #t_2_1.titulo-segundo.mb-5
       h2 2.1 ¿En qué consiste el #[em inbound marketing]?
-    
-    .row.align-items-center.justify-content-center.mb-5
-      .col-lg-9.col-md-12.col-12
-        p.mb-4(data-aos="zoom-in-left") El #[em inbound] a diferencia del #[em outbound] se centra en la captación de clientes aportándoles valor para que sean ellos mismos, quienes se interesen por acercarse a la marca y ser parte de ella. Para lograr esto, el #[em inbound] utiliza herramientas digitales como el SEO, la analítica #[em web], las redes sociales, los contenidos y la generación de #[em leads.] 
-        p.mb-4(data-aos="zoom-in-left") Con el #[em inbound] los verdaderos adeptos a la marca serán los que se acerquen a ella, gracias a la empatía que esta genere con ellos al exponerse a los argumentos en cuanto a la propuesta de valor; todas las marcas en el desarrollo de su posicionamiento van adquiriendo rasgos muy distintivos de personalidad que al final identifican a un grupo muy específico de consumidores y cuando estos se ven reflejados en la marca la adoptan como parte de su estilo de vida.
-      .col-lg-3.col-md-9.col-9
-        img.img-a.img-t(src='@/assets/curso/tema2/img2.svg', alt='Texto que describa la imagen')
 
-    figure.mb-5
+    figure
       .video
-        <iframe width="990" height="557" src="https://www.youtube.com/embed/rckD__9H40I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      figcaption Video: Leyenda del video
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ue1ySp_TyTk?si=1HNd8o_Mgo7dOlTC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      figcaption Video: En Qué Consiste El #[em Inbound Marketing]
       
     separador
 

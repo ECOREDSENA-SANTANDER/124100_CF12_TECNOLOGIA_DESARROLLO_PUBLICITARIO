@@ -338,18 +338,6 @@ export default {
         'https://branch.com.co/marketing-digital/estadisticas-de-la-situacion-digital-de-colombia-en-el-2019-y-2020/',
     },
     {
-      tema: 'Diseño de contenidos para Facebook',
-      referencia: 'Facebook. (2020). Anuncios de Facebook.',
-      tipo: 'Página web',
-      link: 'https://www.facebook.com/ads/tools/text_overlay',
-    },
-    {
-      tema: 'Diseño de contenidos para Facebook',
-      referencia: 'Facebook. (2020). Edición y configuración de campañas.',
-      tipo: 'Página web',
-      link: 'www.facebook.com/ads/manage/powereditor',
-    },
-    {
       tema: 'Google Adwords',
       referencia:
         'Google. (2020). planeación previa de las palabras claves que se pueden utilizar en una campaña de Adwords.',
@@ -363,13 +351,13 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Responsable de línea de producción',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -378,39 +366,39 @@ export default {
       autores: [
         {
           nombre: 'Manuel Augusto Arias López',
-          cargo: 'Instructor - Experto temático ',
-          centro: 'Regional Quindío - Centro de Comercio y Servicios',
+          cargo: 'Instructor - experto temático ',
+          centro: 'Centro de Comercio y Servicios – Regional Quindío',
         },
         {
           nombre: 'Vilma Perilla Méndez',
-          cargo: 'Evaluadora Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Diseñador Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          cargo: 'Diseñador instruccional',
+          centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
         },
         {
           nombre: 'Andrea Velásquez Torres',
-          cargo: 'Apoyo Experto temático',
-          centro: 'Regional Quindío - Centro de Comercio y Servicios',
+          cargo: 'Apoyo experto temático',
+          centro: 'Centro de Comercio y Servicios – Regional Quindío',
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Edición y Corrección de Estilo',
+          cargo: 'Edición y corrección de estilo',
           centro: 'Centro para la Industria de la Comunicación Gráfica',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor Pedagógico',
+          cargo: 'Asesor pedagógico',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura – Regional Santander',
         },
         {
           nombre: 'Carolina Jiménez Suescún',
-          cargo: 'Evaluadora Instruccional',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -419,18 +407,18 @@ export default {
       autores: [
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Diseñador de contenidos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Pedro Alonso Bolivar Gonzalez',
-          cargo: 'Desarrollador <em>Fullstack</em>',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Desarrollador <em>fulls tack</em>',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Animadora y productora multimedia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -438,19 +426,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
-        },
-        {
           nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Validadora de recursos educativos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },

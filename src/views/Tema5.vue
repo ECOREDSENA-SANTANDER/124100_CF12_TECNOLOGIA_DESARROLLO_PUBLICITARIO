@@ -11,29 +11,31 @@
     #t_5_1.titulo-segundo
       h2 5.1 #[em Post]
     
-    p.mb-4 En el siguiente video se realiza una sencilla explicación de la creación de un #[em post] en Illustrator
-    
+    p.mb-4 En el siguiente video se realiza una sencilla explicación de la creación de un #[em post] en Illustrator.
     figure
       .video
-        <iframe width="990" height="557" src="https://www.youtube.com/embed/ZycQ1BjU7v8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      figcaption Video: Leyenda del video
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/uSIe_opPDBg?si=EONzqQtYrVrO0OB1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      figcaption Video: Post #[em Instagram]
       
     Separador
     #t_5_2.titulo-segundo
-      h2 5.2 #[em Stories]
-
+      h2 5.2 #[em Stories ]
+    
+    p.mb-4 En el siguiente video se realiza una explicación de la creación en Illustrator de una imagen para subir en historias de instagram: 
     figure
       .video
-        <iframe width="990" height="557" src="https://www.youtube.com/embed/4pTCdAuuSao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      figcaption Video: Leyenda del video
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/w51j_Ls-fsM?si=-uU7WS73zN-znVXh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      figcaption Video: #[em Stories Instagram]
+    
     Separador
     #t_5_3.titulo-segundo
       h2 5.3 #[em Gif]
-
+    
+    p.mb-4 
     figure
       .video
-        <iframe width="990" height="557" src="https://www.youtube.com/embed/H6vXuqEGkws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      figcaption Video: Leyenda del video
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/XhhajvGirNs?si=7Tz_9bfnJx-XH_sm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      figcaption Video: #[em Gif Instagram]
       
 
 
