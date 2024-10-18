@@ -27,14 +27,14 @@
       .py-4.py-md-5(titulo="TicTok" :icono="require('@/assets/curso/tema3/icon3.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-8
-            p.mb-4 Esta aplicación fue lanzada en 2016 con el nombre Douyin o "sacudir la música" en chino. Se trata de una red social cuyo objetivo es compartir pequeños clips musicales. En el resto del mundo recibe el nombre de TikTok, y está disponible para iOS y Android. TikTok permite crear, editar y subir videoselfies musicales de 1 minuto, permite aplicarles algunos efectos y fondos musicales. También, tiene algunas funciones de inteligencia artificial e incluye llamativos efectos especiales, filtros y características de realidad aumentada.
+            p.mb-4 Esta aplicación fue lanzada en 2016 con el nombre Douyin o "sacudir la música" en chino. Se trata de una red social cuyo objetivo es compartir pequeños #[em clips] musicales. En el resto del mundo recibe el nombre de TikTok, y está disponible para iOS y Android. TikTok permite crear, editar y subir video-#[em selfies] musicales de 1 minuto, permite aplicarles algunos efectos y fondos musicales. También, tiene algunas funciones de inteligencia artificial e incluye llamativos efectos especiales, filtros y características de realidad aumentada.
           .col-lg-3.col-md-9.col-9
             figure
               img(src='@/assets/curso/tema3/img3.png', alt='TicTok').mx-auto
       .py-4.py-md-5(titulo="Snapchat" :icono="require('@/assets/curso/tema3/icon4.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-8
-            p.mb-4 Es una aplicación de mensajería instantánea creada por Evan Spiegel en 2011 como proyecto para una clase en la universidad. Facebook realizó una oferta de 3000 millones de dólares en 2013 pero esta no fue aceptada. En 2017 superó los 160 millones de usuarios activos diarios. Snapchat permite enviar fotos y vídeos, pero a diferencia de otros chats el periodo de vida de lo enviado es muy corto. Al sacar una foto o un vídeo hay dos opciones:
+            p.mb-4 Es una aplicación de mensajería instantánea creada por Evan Spiegel en 2011 como proyecto para una clase en la universidad. Facebook realizó una oferta de 3000 millones de dólares en 2013 pero esta no fue aceptada. En 2017 superó los 160 millones de usuarios activos diarios. Snapchat permite enviar fotos y vídeos, pero a diferencia de otros #[em chats] el periodo de vida de lo enviado es muy corto. Al sacar una foto o un vídeo hay dos opciones:
             ul.lista-ul
               li.d-flex 
                 i.fas.fa-circle-check

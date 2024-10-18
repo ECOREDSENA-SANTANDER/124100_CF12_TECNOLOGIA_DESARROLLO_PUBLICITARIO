@@ -238,9 +238,9 @@ export default {
     },
     {
       referencia:
-        'Branch. (2020). Estadísticas de la Situación Digital de Colombia en el 2019 y 2020.',
+        'Branch. (2024, abril 22). Estadísticas de la situación digital de Colombia en el 2024. Branch Agencia. ',
       link:
-        'https://branch.com.co/marketing-digital/estadisticas-de-la-situacion-digital-de-colombia-en-el-2019-y-2020/',
+        'https://branch.com.co/marketing-digital/situacion-digital-de-colombia-en-el-2024/',
     },
     {
       referencia:
@@ -332,10 +332,10 @@ export default {
     {
       tema: 'Estadísticas',
       referencia:
-        'Branch. (2020). Estadísticas de la situación digital de Colombia en el 2019 y 2020.',
+        'Branch. (2024, abril 22). Estadísticas de la situación digital de Colombia en el 2024. Branch Agencia.',
       tipo: 'Página web',
       link:
-        'https://branch.com.co/marketing-digital/estadisticas-de-la-situacion-digital-de-colombia-en-el-2019-y-2020/',
+        'https://branch.com.co/marketing-digital/situacion-digital-de-colombia-en-el-2024/',
     },
     {
       tema: 'Google Adwords',

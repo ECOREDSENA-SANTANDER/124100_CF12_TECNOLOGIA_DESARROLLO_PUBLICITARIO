@@ -6,7 +6,10 @@
       .titulo-principal__numero
         span 6
       h1  Diseño de contenidos para Facebook
+    
+    p.mb-0 El diseño de contenidos para Facebook es una herramienta fundamental para lograr la proyección de una imagen coherente y profesional en esta red social. Crear una imagen de perfil, una portada y publicaciones visualmente atractivas es esencial para captar la atención de los usuarios. A través de herramientas como Illustrator, es posible desarrollar piezas gráficas que fortalezcan la identidad de marca y mejoren la interacción con la audiencia. 
 
+    Separador
     #t_6_1.titulo-segundo
       h2 6.1 Imagen de perfil
     
@@ -30,11 +33,11 @@
     #t_6_3.titulo-segundo
       h2 6.3 #[em Post]
     
-    p.mb-4 En el siguiente video se presentan las características de una imagen para realizar un post en Facebook:
+    p.mb-4 En el siguiente video se presentan las características de una imagen para realizar un #[em post en Facebook]:
     figure
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/MvlNXgCzsQA?si=3YDVfJcBPPHg9s1q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      figcaption Video: Post #[em Facebook]
+      figcaption Video: #[em Post Facebook]
 
 </template>
 

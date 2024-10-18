@@ -30,83 +30,81 @@
                     .col-lg-7.col-sm-12
                       p.mb-4 A principios de 2024, alrededor del 82.5 % de la población de Colombia vivía en centros urbanos.
                       p.mb-4 El número de conexiones móviles celulares activas en el país es de 77.02 millones, cifra equivalente al 147.5 % de la población total.
-                      p.mb-4 Por otro lado, el número de usuarios conectados a Internet es de 39.51 millones, es decir, el 75.7 % de la población, y los usuarios activos en redes sociales son 36.70 millones .
+                      p.mb-4 Por otro lado, el número de usuarios conectados a Internet es de 39.51 millones, es decir, el 75.7 % de la población, y los usuarios activos en redes sociales son 36.70 millones.
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
                         h5 Figura 1. 
                         | Uso de teléfonos móviles, redes sociales e internet
                       figure
-                        img(src='@/assets/curso/tema4/img02.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre uso de teléfonos móviles, redes sociales e internet.')
-                        figcaption Nota. Ver anexo 1         
+                        img(src='@/assets/curso/tema4/img02.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre uso de teléfonos móviles, redes sociales e internet.')        
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
                       p.mb-4 Este análisis se realizó en usuarios comprendidos entre los 16 a 64 años: 
                       ul.lista-ul
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Teléfono celular (cualquier tipo) 98.8 %.]
+                          p.mb-0 Teléfono celular (cualquier tipo) 98.8 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Teléfonos inteligentes (#[em Smartphone]) 98.5 %.]
+                          p.mb-0 Teléfonos inteligentes (#[em Smartphone]) 98.5 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Teléfono móvil no inteligente: 12.1 %.]
+                          p.mb-0 Teléfono móvil no inteligente: 12.1 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Laptop u ordenador de escritorio (pc): 66.4 %.]
+                          p.mb-0 #[em Laptop] u ordenador de escritorio (pc): 66.4 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b #[em Tablets]: 27.3 %]
+                          p.mb-0 #[em Tablets]: 27.3 %
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Dispositivo de streaming de TV 18.6 %]
+                          p.mb-0 Dispositivo de #[em streaming] de TV 18.6 %
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Consola de videojuegos: 24.5 %]
+                          p.mb-0 Consola de videojuegos: 24.5 %
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Dispositivo inteligente para el hogar (Smart Home) 11.5 %.]
+                          p.mb-0 Dispositivo inteligente para el hogar (#[em Smart Home]) 11.5 %.
                         li.d-flex.mb-0
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Relojes inteligentes: 26.3 %.]
+                          p.mb-0 Relojes inteligentes: 26.3 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 #[b Dispositivos de realidad virtual: 4.6 %.]
+                          p.mb-4 Dispositivos de realidad virtual: 4.6 %.
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
                         h5 Figura 2. 
                         | Dispositivos utilizados por los colombianos
                       figure
                         img(src='@/assets/curso/tema4/img03.svg', alt='La figura presenta graficación en círculos de  resultados de encuesta sobre  dispositivos utilizados por los colombianos.')
-                        figcaption Nota. Ver anexo 2
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
                       p Este análisis se realizó en usuarios comprendidos entre los 16 a 64 años:
                       ul.lista-ul
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b 8 horas y 43 minutos al día conectados a Internet. (18 minutos menos con respecto a enero del 2023).]
+                          p.mb-0 8 horas y 43 minutos al día conectados a Internet. (18 minutos menos con respecto a enero del 2023).
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b 3 horas y 27 minutos al día mirando TV (Broadcast o Streaming).]
+                          p.mb-0 3 horas y 27 minutos al día mirando TV (#[em Broadcast] o #[em Streaming]).
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b 3 horas y 23 minutos al día usando redes sociales.]
+                          p.mb-0 3 horas y 23 minutos al día usando redes sociales.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b 1 hora y 28 minutos al día leyendo noticias (en línea o de medios impresos).]
+                          p.mb-0 1 hora y 28 minutos al día leyendo noticias (en línea o de medios impresos).
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b 1 hora y 47 minutos al día escuchando música a través de servicios Streaming.]
+                          p.mb-0 1 hora y 47 minutos al día escuchando música a través de servicios #[em Streaming].
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b 1 hora y 08 minutos escuchando la radio.]
+                          p.mb-0 1 hora y 08 minutos escuchando la radio.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b 59 minutos escuchando podcasts.]
+                          p.mb-0 59 minutos escuchando podcasts.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 #[b 55 minutos al día jugando videojuegos de consola.]
+                          p.mb-4 55 minutos al día jugando videojuegos de consola.
                     
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
@@ -114,20 +112,19 @@
                         | Tiempo de uso de plataformas y dispositivos
                       figure
                         img(src='@/assets/curso/tema4/img04.svg', alt='La figura presenta graficación en círculos de resultados  de encuesta sobre tiempo de uso de plataformas y dispositivos')
-                        figcaption Nota. Ver anexo 3
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
                       p 
                       ul.lista-ul
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Había 39.51 millones de usuarios de Internet en Colombia en enero de 2024.]
+                          p.mb-0 Había 39.51 millones de usuarios de Internet en Colombia en enero de 2024.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b La tasa de penetración de Internet de Colombia se situó en el 75.7 % de la población total a principios de 2024.]
+                          p.mb-0 La tasa de penetración de Internet de Colombia se situó en el 75.7 % de la población total a principios de 2024.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b El análisis de Kepios indica que los usuarios de Internet en Colombia aumentaron en  0.4 %, 164 mil de usuarios más entre enero de 2023 y enero de 2024.]
+                          p.mb-0 El análisis de Kepios indica que los usuarios de Internet en Colombia aumentaron en  0.4 %, 164 mil de usuarios más entre enero de 2023 y enero de 2024.
                       p.mb-4 Para tener una perspectiva, estas cifras de usuarios revelan que 12.70 millones de personas en Colombia no usaban Internet a principios de 2024, lo que sugiere que el 24.3 % de la población permanecía sin conexión a principios de año.
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
@@ -135,29 +132,27 @@
                         | Resumen del uso de internet
                       figure
                         img(src='@/assets/curso/tema4/img05.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen del uso de internet.')
-                        figcaption Nota. Ver anexo 4
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
                       ul.lista-ul
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Velocidad mediana de conexión móvil: 12.26 Mbps.]
+                          p.mb-0 Velocidad mediana de conexión móvil: 12.26 Mbps.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Velocidad media de conexión fija: 111.81 Mbps.]
+                          p.mb-0 Velocidad media de conexión fija: 111.81 Mbps.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Aumento de 1.44 Mbps (+13.3 %) en la conexión móvil y 22.18 Mbps (+24.7 %) en la conexión fija en los doce meses anteriores a 2024.]
+                          p.mb-0 Aumento de 1.44 Mbps (+13.3 %) en la conexión móvil y 22.18 Mbps (+24.7 %) en la conexión fija en los doce meses anteriores a 2024.
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
                         h5 Figura 5. 
                         | Velocidades de conexión a Internet
                       figure
                         img(src='@/assets/curso/tema4/img06.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre las velocidades de conexión a internet.')
-                        figcaption Nota. Ver anexo 5
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
-                      p.mb-4 El 70.3 de la población total de Colombia es usuaria activa en redes sociales, es decir, 36.7 millones de personas. 
+                      p.mb-4 El 70.3 % de la población total de Colombia es usuaria activa en redes sociales, es decir, 36.7 millones de personas. 
                       p.mb-4 Los datos publicados en las herramientas de planificación publicitaria indican que los usuarios mayores de 18 años utilizando redes sociales en Colombia a principios de 2024 equivalía al 94.1 % de la población total mayor de 18 años en ese momento.
                       p.mb-4 El 92.9 % de la base total de usuarios de Internet en Colombia (independientemente de la edad) utilizaba al menos una plataforma de redes sociales en enero de 2024.
                     .col-lg-5.col-sm-12
@@ -166,65 +161,62 @@
                         | Uso de las redes sociales
                       figure
                         img(src='@/assets/curso/tema4/img07.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen del uso de redes sociales')
-                        figcaption Nota. Ver anexo 6
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
                       p Este análisis se realizó en usuarios comprendidos entre los 16 a 64 años:
                       ul.lista-ul
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b WhatsApp: 92.2 %.]
+                          p.mb-0 WhatsApp: 92.2 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Facebook: 89.2 %.]
+                          p.mb-0 Facebook: 89.2 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Instagram: 86.7 %.]
+                          p.mb-0 Instagram: 86.7 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Messenger: 68.2 %.]
+                          p.mb-0 Messenger: 68.2 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b TikTok: 67.8 %.]
+                          p.mb-0 TikTok: 67.8 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Telegram:53.6 %.]
+                          p.mb-0 Telegram:53.6 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b X(Twitter): 49.3 %.]
+                          p.mb-0 X(Twitter): 49.3 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Pinterest: 44.6 %.]
+                          p.mb-0 Pinterest: 44.6 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Linkedin: 33.5 %.]
+                          p.mb-0 Linkedin: 33.5 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 #[b Snapchat: 22.3 %.]
+                          p.mb-4 Snapchat: 22.3 %.
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
                         h5 Figura 7. 
                         | Comportamiento de usuarios de redes sociales
                       figure
                         img(src='@/assets/curso/tema4/img08.svg', alt='La figura presenta graficación en barras horizontales, de los resultados de encuesta sobre redes sociales más utilizadas.')
-                        figcaption Nota. Ver anexo 7
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
                       p.mb-4 Los datos publicados en los recursos publicitarios de Meta indican que:
                       ul.lista-ul
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Facebook tenía 36.70 millones de usuarios en Colombia a principios de 2024, el 70.3 % de la población total.]
+                          p.mb-0 Facebook tenía 36.70 millones de usuarios en Colombia a principios de 2024, el 70.3 % de la población total.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b El alcance potencial de los anuncios de Facebook en Colombia aumentó en  9.6 %, 3.2 millones de usuarios más entre enero de 2023 y enero de 2024.]
+                          p.mb-0 El alcance potencial de los anuncios de Facebook en Colombia aumentó en  9.6 %, 3.2 millones de usuarios más entre enero de 2023 y enero de 2024.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b El número de usuarios que los anunciantes podían alcanzar con anuncios en Facebook en Colombia disminuyó en 3.7 %, 1.4 millones menos entre octubre de 2023 y enero de 2024.]
-        
+                          p.mb-0 El número de usuarios que los anunciantes podían alcanzar con anuncios en Facebook en Colombia disminuyó en 3.7 %, 1.4 millones menos entre octubre de 2023 y enero de 2024.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 #[b El 50.9 % de la audiencia publicitaria de Facebook en Colombia eran mujeres, mientras que el 49.1 % son hombres.]
+                          p.mb-4 El 50.9 % de la audiencia publicitaria de Facebook en Colombia eran mujeres, mientras que el 49.1 % son hombres.
                     
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
@@ -232,57 +224,53 @@
                         | Audiencia en Facebook
                       figure
                         img(src='@/assets/curso/tema4/img09.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen de la audiencia de Facebook.')
-                        figcaption Nota. Ver anexo 8
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
                       p.mb-4 Los números publicados en las herramientas publicitarias de Meta indican que Instagram tenía:
                       ul.lista-ul
-      
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b 20.05 millones de usuarios en Colombia a principios de 2024.]
+                          p.mb-0 20.05 millones de usuarios en Colombia a principios de 2024.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b El alcance publicitario de Instagram en Colombia era equivalente al 38.4 % de la población total a principios de año.]
+                          p.mb-0 El alcance publicitario de Instagram en Colombia era equivalente al 38.4 % de la población total a principios de año.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b Es importante notar que el alcance publicitario de Instagram en Colombia a principios de 2024 era equivalente al 50.7 % de la base de usuarios de internet locales (independientemente de la edad).]
+                          p.mb-0 Es importante notar que el alcance publicitario de Instagram en Colombia a principios de 2024 era equivalente al 50.7 % de la base de usuarios de internet locales (independientemente de la edad).
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b El alcance potencial de los anuncios de Instagram en Colombia aumentó en  13.0 %, 2.3 millones de usuarios más entre enero de 2023 y enero de 2024.]
+                          p.mb-0 El alcance potencial de los anuncios de Instagram en Colombia aumentó en  13.0 %, 2.3 millones de usuarios más entre enero de 2023 y enero de 2024.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 #[b El 56.8 % de la audiencia publicitaria de Instagram en Colombia eran mujeres, mientras que el 43.2 % eran hombres.]
+                          p.mb-4 El 56.8 % de la audiencia publicitaria de Instagram en Colombia eran mujeres, mientras que el 43.2 % eran hombres.
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
                         h5 Figura 9. 
                         | Audiencia en Instagram
                       figure
                         img(src='@/assets/curso/tema4/img101.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre audiencia en Instagram.')
-                        figcaption Nota. Ver anexo 9
                   .row.justify-content-center.align-items-center
                     .col-lg-7.col-sm-12
                       p.mb-4 Las cifras publicadas en los recursos publicitarios de X (Twitter) indican que:
                       ul.lista-ul
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b X tenía 5.64 millones de usuarios en Colombia a principios de 2024, equivalente al 10.8 % de la población total en ese momento.]
+                          p.mb-0 X tenía 5.64 millones de usuarios en Colombia a principios de 2024, equivalente al 10.8 % de la población total en ese momento.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b El alcance publicitario de X en Colombia era equivalente al 14.3 % de la base local de usuarios de internet (independientemente de la edad) a principios de año.]
+                          p.mb-0 El alcance publicitario de X en Colombia era equivalente al 14.3 % de la base local de usuarios de internet (independientemente de la edad) a principios de año.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-0 #[b El alcance potencial de los anuncios de X en Colombia aumentó en 0.7 %, 40 mil de usuarios más entre principios de 2023 y principios de 2024.]
+                          p.mb-0 El alcance potencial de los anuncios de X en Colombia aumentó en 0.7 %, 40 mil de usuarios más entre principios de 2023 y principios de 2024.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 #[b El 36.2 % de la audiencia publicitaria de Twitter en Colombia eran mujeres, mientras que el 63.8 % eran hombres.]      
+                          p.mb-4 El 36.2 % de la audiencia publicitaria de Twitter en Colombia eran mujeres, mientras que el 63.8 % eran hombres.
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
                         h5 Figura 10. 
                         | Audiencia en  X (Twitter)
                       figure
                         img(src='@/assets/curso/tema4/img102.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen de la audiencia en Twitter.')
-                        figcaption Nota. Ver anexo 10
     
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-12.col-md-12.col-12
@@ -294,7 +282,7 @@
               h4.mb-3.text-white #[b Recomendado]
               p.mb-3 Si desea conocer las #[b estadísticas completas,] lo puede hacer ingresando al siguiente enlace:
             .col-lg-2
-              a.boton.color-acento-botones(href="https://branch.com.co/marketing-digital/estadisticas-de-la-situacion-digital-de-colombia-en-el-2019-y-2020/" target="_blank")
+              a.boton.color-acento-botones(href="https://branch.com.co/marketing-digital/situacion-digital-de-colombia-en-el-2024/" target="_blank")
                 span Enlace
                 i.fas.fa-link
 
@@ -356,7 +344,7 @@
           .col-lg-8
             .cajam.mb-4
               h4.text-center.text-white Análisis
-        p.text-center Las estadísticas y la segmentación que genera Facebook permite la toma de decisiones con el mínimo de riesgo en el desarrollo de las estrategias de comunicación.
+        p.text-center Las estadísticas y la segmentación que genera Facebook permiten la toma de decisiones con el mínimo de riesgo en el desarrollo de las estrategias de comunicación.
     
     .d-flex.mb-4  
       h3.title-card-acento-contenido Tipos 
@@ -396,7 +384,7 @@
             .row
               .col-lg-12.col-sm-12
                 p.mb-4 #[b Llegar a personas cerca al negocio]
-                p.mb-0 Esta campaña se basa en la geolocalización, se realiza segmentación de acuerdo a un rango de cobertura, en este punto se puede agregar un mapa para que el cliente tenga la opción de llegar.
+                p.mb-0 Esta campaña se basa en la geolocalización, se realiza segmentación de acuerdo con un rango de cobertura, en este punto se puede agregar un mapa para que el cliente tenga la opción de llegar.
             .row
               .col-lg-12.col-sm-12
                 p.mb-4 #[b Aumento de asistentes a un evento]
@@ -455,13 +443,13 @@
                 p.mb-0.mo En este punto se pueden segmentar los usuarios por actividades relacionadas con la tecnología, personas que debieron salir del país o por eventos actuales. Es una característica poco usual en Colombia.
           .row(titulo="Usuarios de dispositivos")
             .col-sm-12.col-lg-12
-                p.mb-0.mo Esta característica permite segmentar los usuarios de acuerdo al dispositivo por el cual accede: computador, #[em tablet] o celular. Adicionalmente, permite segmentar por marcas de dispositivos, sistemas operativos y tipo de conexión.
+                p.mb-0.mo Esta característica permite segmentar los usuarios de acuerdo con el dispositivo por el cual accede: computador, #[em tablet] o celular. Adicionalmente, permite segmentar por marcas de dispositivos, sistemas operativos y tipo de conexión.
           .row(titulo="Viajes")
             .col-sm-12.col-lg-12
                 p.mb-0.mo Permite la segmentación de usuarios que utilicen aplicaciones de viajes en un periodo de tiempo determinado, la frecuencia de viaje y si lo hacen por negocios o placer.
           .row(titulo="Conexiones")
             .col-sm-12.col-lg-12
-                p.mb-0.mo Permite segmentar con base en la relación de los usuarios con la fanpage, permite excluir o incluir seguidores y amigos.
+                p.mb-0.mo Permite segmentar con base en la relación de los usuarios con la #[em fanpage], permite excluir o incluir seguidores y amigos.
     
     .d-flex.mb-4  
       h3.title-card-acento-contenido Costo
@@ -489,7 +477,7 @@
 
     p.mb-4 Para la definición del costo de la campaña se pueden también tener en cuenta otros datos avanzados:
     
-    .row.justify-content-center.align-items-center.mb-2
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-12.col-sm-12
         .row.justify-content-center.align-items-center  
           .col-lg-4.col-sm-12.mb-3
@@ -685,32 +673,32 @@
           .col-lg-6.col-md-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema4/ima39.svg', alt='')
           .col-lg-6.col-md-12.my-5
-            h4.mb-4 Concordancia amplia:
-            p en este punto Google escogerá cualquier palabra de la frase que se haya creado para mostrar anuncios con búsquedas que incluyan una de esas palabras. Esta acción puede generar errores en el desarrollo de las campañas porque la búsqueda se hace más general. Por ejemplo, si las palabras claves son “curso arte” Google activa anuncios con: curso de…, galería de arte, venta de arte, arte decorativo, etc.
+            h4.mb-4 Concordancia amplia
+            p En este punto Google escogerá cualquier palabra de la frase que se haya creado para mostrar anuncios con búsquedas que incluyan una de esas palabras. Esta acción puede generar errores en el desarrollo de las campañas porque la búsqueda se hace más general. Por ejemplo, si las palabras claves son “curso arte” Google activa anuncios con: curso de…, galería de arte, venta de arte, arte decorativo, etc.
                 
       .py-3.py-md-4.bg26.px-3(titulo="Concordancia de frase")
         .row.justify-content-center.p-4
           .col-lg-6.col-md-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema4/ima40.svg', alt='')
           .col-lg-6.col-md-12.my-5
-            h4.mb-4 Concordancia de frase:
-            p en este caso Google mostrará anuncios que contengan la frase o variaciones ligeras de esta. Con esta concordancia de frase se tiene un control superior sobre las búsquedas que pueden activar los anuncios de la empresa. Por ejemplo, la frase “curso arte”, esta frase activará anuncios con búsquedas como curso de arte, cursos de arte, cursos de arte #[em online], cursos gratis de arte, etc.
+            h4.mb-4 Concordancia de frase
+            p En este caso Google mostrará anuncios que contengan la frase o variaciones ligeras de esta. Con esta concordancia de frase se tiene un control superior sobre las búsquedas que pueden activar los anuncios de la empresa. Por ejemplo, la frase “curso arte”, esta frase activará anuncios con búsquedas como curso de arte, cursos de arte, cursos de arte #[em online], cursos gratis de arte, etc.
             
       .py-3.py-md-4.bg26.px-3(titulo="Concordancia exacta")
         .row.justify-content-center.p-4
           .col-lg-6.col-md-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema4/ima41.svg', alt='')
           .col-lg-6.col-md-12.my-5
-            h4.mb-4 Concordancia exacta:
-            p este tipo de concordancia activará los anuncios con búsquedas que tengan la palabra exacta o variaciones de ella. De esta forma se tiene control absoluto de los anuncios, es la mejor alternativa en una campaña de Adwords.
+            h4.mb-4 Concordancia exacta
+            p Este tipo de concordancia activará los anuncios con búsquedas que tengan la palabra exacta o variaciones de ella. De esta forma se tiene control absoluto de los anuncios, es la mejor alternativa en una campaña de Adwords.
             
       .py-3.py-md-4.bg26.px-3(titulo="Concordancia negativa")
         .row.justify-content-center.p-4
           .col-lg-6.col-md-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema4/ima42.svg', alt='')
           .col-lg-6.col-md-12.my-5
-            h4.mb-4 Concordancia negativa:
-            p con este tipo de concordancia lo que se busca es restringir frases que no se desea que activen los anuncios de la empresa.
+            h4.mb-4 Concordancia negativa
+            p Con este tipo de concordancia lo que se busca es restringir frases que no se desea que activen los anuncios de la empresa.
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12.col-md-12.col-12
@@ -803,11 +791,11 @@
         .br-cus.mb-5.my-5
       .col-lg-5.col-md-5.col-12
         img.img-a.img-t.mb-4.mov(src='@/assets/curso/tema4/9.svg' alt='AvatarTop')
-        p.mb-0 #[b Titulo visible:] además debe ser directo y persuasivo, este elemento es lo primero que va a leer el usuario una vez haga clic en el anuncio.
+        p.mb-0 #[b Título visible:] además debe ser directo y persuasivo, este elemento es lo primero que va a leer el usuario una vez haga clic en el anuncio.
     .row.justify-content-center
       .col-lg-5.col-md-5.col-12.mb-3
         img.img-a.img-t.mb-4.mov(src='@/assets/curso/tema4/8.svg' alt='AvatarTop')
-        p.mb-0 #[b #[em Copy] claro y sencillo:] un copy debe ser de fácil lectura, la idea es usar términos sencillos para que el cliente entienda rápidamente lo que se le está ofreciendo.
+        p.mb-0 #[b #[em Copy] claro y sencillo:] un #[em copy] debe ser de fácil lectura, la idea es usar términos sencillos para que el cliente entienda rápidamente lo que se le está ofreciendo.
       .col-lg-1.col-md-1.col-1.icono
         .br-cus.mb-5.my-5
       .col-lg-5.col-md-5.col-12.mb-3
