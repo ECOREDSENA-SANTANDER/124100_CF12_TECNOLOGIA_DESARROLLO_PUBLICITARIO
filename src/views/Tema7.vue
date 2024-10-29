@@ -9,9 +9,9 @@
     p.mb-0 Para destacar en esta red social de comunicación rápida y visualmente dinámica, el diseño de contenidos es esencial. Crear GIF con ilustraciones, imágenes de cabecera personalizadas y publicaciones atractivas requiere habilidades en herramientas como Illustrator, lo que permite optimizar la presencia de la marca y captar la atención del público de manera efectiva. 
     Separador
     #t_7_1.titulo-segundo
-      h2 7.1 #[em Gif] con ilustración
+      h2 7.1 #[em GIF] con ilustración
     
-    p.mb-4 En el siguiente video se explica detalladamente como construir un gif con ilustración en la plataforma Illustrator:
+    p.mb-4 En el siguiente video se explica detalladamente como construir un GIF con ilustración en la plataforma Illustrator:
     figure
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/im_Sfi3Nw1k?si=vkn5utyDvstdGSyB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -30,7 +30,7 @@
     #t_7_3.titulo-segundo
       h2 7.3 #[em Post]
     
-    p.mb-4 En el siguiente video se presenta una explicación de la manera en que se crea una imagen para realizar un #[em post] en Twitter.
+    p.mb-4 En el siguiente video se presenta una explicación de la manera en que se crea una imagen para realizar un #[em post] en X.
     figure
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/U3IyoELVvvE?si=YPv4rXR0NrlFbY31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

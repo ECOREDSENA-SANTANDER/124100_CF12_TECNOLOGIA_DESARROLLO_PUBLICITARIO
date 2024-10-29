@@ -303,9 +303,9 @@ export default {
         'es una compañía de origen estadounidense que ofrece servicios de redes sociales y medios sociales en línea con sede en Menlo Park, California.',
     },
     {
-      termino: '<em>Gif</em>',
+      termino: '<em>GIF</em>',
       significado:
-        'la palabra <em>Gif</em> es una sigla que significa Graphics Interchange Format o en español, Formato de Intercambio de Gráficos. Este formato de imagen fue creado en 1987 por Steve Wilhite en Compuserve, una compañía de comunicaciones norteamericana. El archivo <em>Gif</em> es la mínima expresión o recurso gráfico en relación con su peso que permite crear una animación para realizar un anuncio, lanzar un mensaje o contar una pequeña historia. El archivo <em>Gif</em> está limitado a mostrar su contenido en solo 256 colores, lo cual equivale a una profundidad de color de 8 bits.',
+        'la palabra <em>GIF</em> es una sigla que significa Graphics Interchange Format o en español, Formato de Intercambio de Gráficos. Este formato de imagen fue creado en 1987 por Steve Wilhite en Compuserve, una compañía de comunicaciones norteamericana.',
     },
     {
       termino: 'Instagram',

@@ -31,13 +31,13 @@
     
     Separador
     #t_5_3.titulo-segundo
-      h2 5.3 #[em Gif]
+      h2 5.3 #[em GIF]
     
-    p.mb-4 En el siguiente video, se presenta de manera detallada, la construcción de un gif animado para #[em Instagram]:
+    p.mb-4 En el siguiente video, se presenta de manera detallada, la construcción de un GIF animado para #[em Instagram]:
     figure
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/XhhajvGirNs?si=7Tz_9bfnJx-XH_sm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      figcaption Video: #[em Gif Instagram]
+      figcaption Video: #[em GIF Instagram]
       
 
 
