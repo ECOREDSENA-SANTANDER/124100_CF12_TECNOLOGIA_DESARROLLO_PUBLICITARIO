@@ -17,7 +17,7 @@
     figure
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/BoOx6QM0BSY?si=rc4KxJ3NJqOi4NBH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      figcaption Video: Imagen De Perfil - #[em Facebook]
+      figcaption Video: Imagen De Perfil - Facebook
     
     Separador
     #t_6_2.titulo-segundo
@@ -26,8 +26,8 @@
     p.mb-4 En el siguiente video se presentan las características de la imagen de portada de Facebook y se explica de manera sencilla la manera de crearla en la plataforma Illustrator.
     figure
       .video
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/S-rJSguKTwI?si=7syH00MpqUwJYExR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      figcaption Video: Portada - #[em Facebook]
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/S-rJSguKTwI?si=16MT41n0Ipc4AVaP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      figcaption Video: Portada - Facebook
     
     Separador
     #t_6_3.titulo-segundo
@@ -37,7 +37,7 @@
     figure
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/MvlNXgCzsQA?si=3YDVfJcBPPHg9s1q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      figcaption Video: #[em Post Facebook]
+      figcaption Video: #[em Post] Facebook
 
 </template>
 

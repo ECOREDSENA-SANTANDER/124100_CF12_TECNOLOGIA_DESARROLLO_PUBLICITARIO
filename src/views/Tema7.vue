@@ -5,7 +5,7 @@
     .titulo-principal.color-secundario
       .titulo-principal__numero
         span 7
-      h1 Diseño de contenidos para Twitter
+      h1 Diseño de contenidos para X
     p.mb-0 Para destacar en esta red social de comunicación rápida y visualmente dinámica, el diseño de contenidos es esencial. Crear GIF con ilustraciones, imágenes de cabecera personalizadas y publicaciones atractivas requiere habilidades en herramientas como Illustrator, lo que permite optimizar la presencia de la marca y captar la atención del público de manera efectiva. 
     Separador
     #t_7_1.titulo-segundo
@@ -15,7 +15,7 @@
     figure
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/im_Sfi3Nw1k?si=vkn5utyDvstdGSyB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      figcaption Video: #[em Gif] Con Ilustración Twitter
+      figcaption Video: #[em Gif] Con Ilustración X
     Separador
     #t_7_2.titulo-segundo
       h2 7.2 Cabecera
@@ -33,8 +33,8 @@
     p.mb-4 En el siguiente video se presenta una explicación de la manera en que se crea una imagen para realizar un #[em post] en X.
     figure
       .video
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/U3IyoELVvvE?si=YPv4rXR0NrlFbY31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      figcaption Video: #[em Post] Twitter
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/U3IyoELVvvE?si=Q7LQOYs3CTSGpmrt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      figcaption Video: #[em Post] X
 
 </template>
 

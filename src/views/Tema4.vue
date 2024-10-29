@@ -264,13 +264,13 @@
                           p.mb-0 El alcance potencial de los anuncios de X en Colombia aumentó en 0.7 %, 40 mil de usuarios más entre principios de 2023 y principios de 2024.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 El 36.2 % de la audiencia publicitaria de Twitter en Colombia eran mujeres, mientras que el 63.8 % eran hombres.
+                          p.mb-4 El 36.2 % de la audiencia publicitaria de X en Colombia eran mujeres, mientras que el 63.8 % eran hombres.
                     .col-lg-5.col-sm-12
                       .titulo-sexto.color-secundario
                         h5 Figura 10. 
                         | Audiencia en  X (Twitter)
                       figure
-                        img(src='@/assets/curso/tema4/img102.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen de la audiencia en Twitter.')
+                        img(src='@/assets/curso/tema4/img102.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen de la audiencia en X.')
     
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-12.col-md-12.col-12

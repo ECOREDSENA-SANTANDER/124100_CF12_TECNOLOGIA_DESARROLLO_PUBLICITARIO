@@ -161,7 +161,7 @@ export default {
         nombreRuta: 'tema7',
         icono: '',
         numero: '7',
-        titulo: 'Diseño de contenidos para Twitter',
+        titulo: 'Diseño de contenidos para X',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -323,9 +323,9 @@ export default {
         'es la unidad básica de una imagen digitalizada en pantalla. En otras palabras, son los puntos de color que conforman una imagen, mediante la constitución de una matriz de pixeles sucesivos.',
     },
     {
-      termino: 'Twitter',
+      termino: 'X',
       significado:
-        'es un servicio de microblogueo, con sede en San Francisco, California, EE. UU., con filiales en San Antonio y Boston en Estados Unidos. Twitter, Inc. fue creado originalmente en California, pero está bajo la jurisdicción de Delaware desde 2007.',
+        'es un servicio de microblogueo, con sede en San Francisco, California, EE. UU., con filiales en San Antonio y Boston en Estados Unidos. X, Inc. fue creado originalmente en California, pero está bajo la jurisdicción de Delaware desde 2007.',
     },
   ],
   complementario: [
