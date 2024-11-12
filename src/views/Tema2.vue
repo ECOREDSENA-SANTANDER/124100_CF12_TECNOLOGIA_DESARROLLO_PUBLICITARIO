@@ -22,7 +22,7 @@
     p.mb-4 El video que se presenta a continuación expone de manera resumida y clara, en qué se centra la estrategia de #[em inbound marketing.] 
     figure
       .video
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ue1ySp_TyTk?si=IgF4BLY3bcBr3XL_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ue1ySp_TyTk?si=y_H8OuE07famfRkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
       figcaption Video: En Qué Consiste El #[em Inbound Marketing]
       
     separador

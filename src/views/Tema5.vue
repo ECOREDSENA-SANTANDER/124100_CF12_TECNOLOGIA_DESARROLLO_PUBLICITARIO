@@ -7,8 +7,8 @@
         span 5
       h1 Diseño de contenidos para Instagram
 
-    p.mb-4 El diseño de contenidos para Instagram es un proceso fundamental que se realiza con la finalidad de construir una presencia visual atractiva y efectiva en esta red social. Crear publicaciones, historias y GIF animados requiere habilidades que combinan creatividad y dominio de herramientas digitales como Illustrator, lo que permite captar la atención del público e impulsar la interacción con la marca. 
-    p.mb-0 A continuación, se presenta una guía práctica sobre la creación de contenido para Instagram utilizando Illustrator. A través de sencillos videos, se explican los pasos para diseñar un post, una imagen para historias y la construcción detallada de un GIF animado. 
+    p.mb-4 El diseño de contenidos para Instagram es un proceso fundamental que se realiza con la finalidad de construir una presencia visual atractiva y efectiva en esta red social. Crear publicaciones, historias y #[em GIF] animados requiere habilidades que combinan creatividad y dominio de herramientas digitales como Illustrator, lo que permite captar la atención del público e impulsar la interacción con la marca. 
+    p.mb-0 A continuación, se presenta una guía práctica sobre la creación de contenido para Instagram utilizando Illustrator. A través de sencillos videos, se explican los pasos para diseñar un post, una imagen para historias y la construcción detallada de un #[em GIF] animado. 
     Separador
     #t_5_1.titulo-segundo
       h2 5.1 #[em Post]
@@ -33,11 +33,11 @@
     #t_5_3.titulo-segundo
       h2 5.3 #[em GIF]
     
-    p.mb-4 En el siguiente video, se presenta de manera detallada, la construcción de un GIF animado para Instagram:
+    p.mb-4 En el siguiente video, se presenta de manera detallada, la construcción de un #[em GIF] animado para Instagram:
     figure
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/XhhajvGirNs?si=7Tz_9bfnJx-XH_sm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      figcaption Video: GIF Instagram
+      figcaption Video: #[em GIF] Instagram
       
 
 
