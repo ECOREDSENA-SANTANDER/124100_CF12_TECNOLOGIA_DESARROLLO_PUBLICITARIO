@@ -27,18 +27,27 @@
               .tarjeta.tarjeta--azul.p-3.mt-5.mb-5
                 SlyderA(tipo="b").p-3
                   .row.justify-content-center.align-items-center
-                    .col-lg-7.col-sm-12
-                      p.mb-4 A principios de 2024, alrededor del 82.5 % de la población de Colombia vivía en centros urbanos.
-                      p.mb-4 El número de conexiones móviles celulares activas en el país es de 77.02 millones, cifra equivalente al 147.5 % de la población total.
-                      p.mb-4 Por otro lado, el número de usuarios conectados a Internet es de 39.51 millones, es decir, el 75.7 % de la población, y los usuarios activos en redes sociales son 36.70 millones.
-                    .col-lg-5.col-sm-12
+                    .col-lg-5
                       .titulo-sexto.color-secundario
                         h5 Figura 1. 
                         | Uso de teléfonos móviles, redes sociales e internet
                       figure
                         img(src='@/assets/curso/tema4/img02.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre uso de teléfonos móviles, redes sociales e internet.')        
+                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                    .col-lg-7
+                      p.mb-4 A principios de 2024, alrededor del 82.5 % de la población de Colombia vivía en centros urbanos.
+                      p.mb-4 El número de conexiones móviles celulares activas en el país es de 77.02 millones, cifra equivalente al 147.5 % de la población total.
+                      p.mb-0 Por otro lado, el número de usuarios conectados a Internet es de 39.51 millones, es decir, el 75.7 % de la población, y los usuarios activos en redes sociales son 36.70 millones.
+                    
                   .row.justify-content-center.align-items-center
-                    .col-lg-7.col-sm-12
+                    .col-lg-5
+                      .titulo-sexto.color-secundario
+                        h5 Figura 2. 
+                        | Dispositivos utilizados por los colombianos
+                      figure
+                        img(src='@/assets/curso/tema4/img03.svg', alt='La figura presenta graficación en círculos de  resultados de encuesta sobre  dispositivos utilizados por los colombianos.')
+                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                    .col-lg-7
                       p.mb-4 Este análisis se realizó en usuarios comprendidos entre los 16 a 64 años: 
                       ul.lista-ul
                         li.d-flex.mb-0 
@@ -70,15 +79,17 @@
                           p.mb-0 Relojes inteligentes: 26.3 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 Dispositivos de realidad virtual: 4.6 %.
-                    .col-lg-5.col-sm-12
-                      .titulo-sexto.color-secundario
-                        h5 Figura 2. 
-                        | Dispositivos utilizados por los colombianos
-                      figure
-                        img(src='@/assets/curso/tema4/img03.svg', alt='La figura presenta graficación en círculos de  resultados de encuesta sobre  dispositivos utilizados por los colombianos.')
+                          p.mb-0 Dispositivos de realidad virtual: 4.6 %.
+                    
                   .row.justify-content-center.align-items-center
-                    .col-lg-7.col-sm-12
+                    .col-lg-5
+                      .titulo-sexto.color-secundario
+                        h5 Figura 3. 
+                        | Tiempo de uso de plataformas y dispositivos
+                      figure
+                        img(src='@/assets/curso/tema4/img04.svg', alt='La figura presenta graficación en círculos de resultados  de encuesta sobre tiempo de uso de plataformas y dispositivos')
+                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                    .col-lg-7
                       p Este análisis se realizó en usuarios comprendidos entre los 16 a 64 años:
                       ul.lista-ul
                         li.d-flex.mb-0 
@@ -104,18 +115,18 @@
                           p.mb-0 59 minutos escuchando podcasts.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 55 minutos al día jugando videojuegos de consola.
+                          p.mb-0 55 minutos al día jugando videojuegos de consola.
                     
-                    .col-lg-5.col-sm-12
-                      .titulo-sexto.color-secundario
-                        h5 Figura 3. 
-                        | Tiempo de uso de plataformas y dispositivos
-                      figure
-                        img(src='@/assets/curso/tema4/img04.svg', alt='La figura presenta graficación en círculos de resultados  de encuesta sobre tiempo de uso de plataformas y dispositivos')
                   .row.justify-content-center.align-items-center
-                    .col-lg-7.col-sm-12
-                      p 
-                      ul.lista-ul
+                    .col-lg-5
+                      .titulo-sexto.color-secundario
+                        h5 Figura 4. 
+                        | Resumen del uso de internet
+                      figure
+                        img(src='@/assets/curso/tema4/img05.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen del uso de internet.')
+                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                    .col-lg-7
+                      ul.lista-ul.mb-4
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
                           p.mb-0 Había 39.51 millones de usuarios de Internet en Colombia en enero de 2024.
@@ -125,15 +136,17 @@
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
                           p.mb-0 El análisis de Kepios indica que los usuarios de Internet en Colombia aumentaron en  0.4 %, 164 mil de usuarios más entre enero de 2023 y enero de 2024.
-                      p.mb-4 Para tener una perspectiva, estas cifras de usuarios revelan que 12.70 millones de personas en Colombia no usaban Internet a principios de 2024, lo que sugiere que el 24.3 % de la población permanecía sin conexión a principios de año.
-                    .col-lg-5.col-sm-12
-                      .titulo-sexto.color-secundario
-                        h5 Figura 4. 
-                        | Resumen del uso de internet
-                      figure
-                        img(src='@/assets/curso/tema4/img05.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen del uso de internet.')
+                      p.mb-0 Para tener una perspectiva, estas cifras de usuarios revelan que 12.70 millones de personas en Colombia no usaban Internet a principios de 2024, lo que sugiere que el 24.3 % de la población permanecía sin conexión a principios de año.
+                    
                   .row.justify-content-center.align-items-center
-                    .col-lg-7.col-sm-12
+                    .col-lg-5
+                      .titulo-sexto.color-secundario
+                        h5 Figura 5. 
+                        | Velocidades de conexión a Internet
+                      figure
+                        img(src='@/assets/curso/tema4/img06.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre las velocidades de conexión a internet.')
+                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                    .col-lg-7
                       ul.lista-ul
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
@@ -144,25 +157,29 @@
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
                           p.mb-0 Aumento de 1.44 Mbps (+13.3 %) en la conexión móvil y 22.18 Mbps (+24.7 %) en la conexión fija en los doce meses anteriores a 2024.
-                    .col-lg-5.col-sm-12
-                      .titulo-sexto.color-secundario
-                        h5 Figura 5. 
-                        | Velocidades de conexión a Internet
-                      figure
-                        img(src='@/assets/curso/tema4/img06.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre las velocidades de conexión a internet.')
+                    
                   .row.justify-content-center.align-items-center
-                    .col-lg-7.col-sm-12
-                      p.mb-4 El 70.3 % de la población total de Colombia es usuaria activa en redes sociales, es decir, 36.7 millones de personas. 
-                      p.mb-4 Los datos publicados en las herramientas de planificación publicitaria indican que los usuarios mayores de 18 años utilizando redes sociales en Colombia a principios de 2024 equivalía al 94.1 % de la población total mayor de 18 años en ese momento.
-                      p.mb-4 El 92.9 % de la base total de usuarios de Internet en Colombia (independientemente de la edad) utilizaba al menos una plataforma de redes sociales en enero de 2024.
-                    .col-lg-5.col-sm-12
+                    .col-lg-5
                       .titulo-sexto.color-secundario
                         h5 Figura 6. 
                         | Uso de las redes sociales
                       figure
                         img(src='@/assets/curso/tema4/img07.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen del uso de redes sociales')
+                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                    .col-lg-7
+                      p.mb-4 El 70.3 % de la población total de Colombia es usuaria activa en redes sociales, es decir, 36.7 millones de personas. 
+                      p.mb-4 Los datos publicados en las herramientas de planificación publicitaria indican que los usuarios mayores de 18 años utilizando redes sociales en Colombia a principios de 2024 equivalía al 94.1 % de la población total mayor de 18 años en ese momento.
+                      p.mb-0 El 92.9 % de la base total de usuarios de Internet en Colombia (independientemente de la edad) utilizaba al menos una plataforma de redes sociales en enero de 2024.
+                    
                   .row.justify-content-center.align-items-center
-                    .col-lg-7.col-sm-12
+                    .col-lg-5
+                      .titulo-sexto.color-secundario
+                        h5 Figura 7. 
+                        | Comportamiento de usuarios de redes sociales
+                      figure
+                        img(src='@/assets/curso/tema4/img08.svg', alt='La figura presenta graficación en barras horizontales, de los resultados de encuesta sobre redes sociales más utilizadas.')
+                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                    .col-lg-7
                       p Este análisis se realizó en usuarios comprendidos entre los 16 a 64 años:
                       ul.lista-ul
                         li.d-flex.mb-0 
@@ -194,15 +211,17 @@
                           p.mb-0 Linkedin: 33.5 %.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 Snapchat: 22.3 %.
-                    .col-lg-5.col-sm-12
-                      .titulo-sexto.color-secundario
-                        h5 Figura 7. 
-                        | Comportamiento de usuarios de redes sociales
-                      figure
-                        img(src='@/assets/curso/tema4/img08.svg', alt='La figura presenta graficación en barras horizontales, de los resultados de encuesta sobre redes sociales más utilizadas.')
+                          p.mb-0 Snapchat: 22.3 %.
+                    
                   .row.justify-content-center.align-items-center
-                    .col-lg-7.col-sm-12
+                    .col-lg-5
+                      .titulo-sexto.color-secundario
+                        h5 Figura 8. 
+                        | Audiencia en Facebook
+                      figure
+                        img(src='@/assets/curso/tema4/img09.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen de la audiencia de Facebook.')
+                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                    .col-lg-7
                       p.mb-4 Los datos publicados en los recursos publicitarios de Meta indican que:
                       ul.lista-ul
                         li.d-flex.mb-0 
@@ -216,16 +235,17 @@
                           p.mb-0 El número de usuarios que los anunciantes podían alcanzar con anuncios en Facebook en Colombia disminuyó en 3.7 %, 1.4 millones menos entre octubre de 2023 y enero de 2024.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 El 50.9 % de la audiencia publicitaria de Facebook en Colombia eran mujeres, mientras que el 49.1 % son hombres.
+                          p.mb-0 El 50.9 % de la audiencia publicitaria de Facebook en Colombia eran mujeres, mientras que el 49.1 % son hombres.
                     
-                    .col-lg-5.col-sm-12
-                      .titulo-sexto.color-secundario
-                        h5 Figura 8. 
-                        | Audiencia en Facebook
-                      figure
-                        img(src='@/assets/curso/tema4/img09.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen de la audiencia de Facebook.')
                   .row.justify-content-center.align-items-center
-                    .col-lg-7.col-sm-12
+                    .col-lg-5
+                      .titulo-sexto.color-secundario
+                        h5 Figura 9. 
+                        | Audiencia en Instagram
+                      figure
+                        img(src='@/assets/curso/tema4/img101.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre audiencia en Instagram.')
+                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                    .col-lg-7
                       p.mb-4 Los números publicados en las herramientas publicitarias de Meta indican que Instagram tenía:
                       ul.lista-ul
                         li.d-flex.mb-0 
@@ -242,15 +262,17 @@
                           p.mb-0 El alcance potencial de los anuncios de Instagram en Colombia aumentó en  13.0 %, 2.3 millones de usuarios más entre enero de 2023 y enero de 2024.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 El 56.8 % de la audiencia publicitaria de Instagram en Colombia eran mujeres, mientras que el 43.2 % eran hombres.
-                    .col-lg-5.col-sm-12
-                      .titulo-sexto.color-secundario
-                        h5 Figura 9. 
-                        | Audiencia en Instagram
-                      figure
-                        img(src='@/assets/curso/tema4/img101.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre audiencia en Instagram.')
+                          p.mb-0 El 56.8 % de la audiencia publicitaria de Instagram en Colombia eran mujeres, mientras que el 43.2 % eran hombres.
+                    
                   .row.justify-content-center.align-items-center
-                    .col-lg-7.col-sm-12
+                    .col-lg-5
+                      .titulo-sexto.color-secundario
+                        h5 Figura 10. 
+                        | Audiencia en  X (Twitter)
+                      figure
+                        img(src='@/assets/curso/tema4/img102.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen de la audiencia en X.')
+                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                    .col-lg-7
                       p.mb-4 Las cifras publicadas en los recursos publicitarios de X (Twitter) indican que:
                       ul.lista-ul
                         li.d-flex.mb-0 
@@ -264,14 +286,8 @@
                           p.mb-0 El alcance potencial de los anuncios de X en Colombia aumentó en 0.7 %, 40 mil de usuarios más entre principios de 2023 y principios de 2024.
                         li.d-flex.mb-0 
                           i.fas.fa-circle-check
-                          p.mb-4 El 36.2 % de la audiencia publicitaria de X en Colombia eran mujeres, mientras que el 63.8 % eran hombres.
-                    .col-lg-5.col-sm-12
-                      .titulo-sexto.color-secundario
-                        h5 Figura 10. 
-                        | Audiencia en  X (Twitter)
-                      figure
-                        img(src='@/assets/curso/tema4/img102.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen de la audiencia en X.')
-    
+                          p.mb-0 El 36.2 % de la audiencia publicitaria de X en Colombia eran mujeres, mientras que el 63.8 % eran hombres.
+                    
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-12.col-md-12.col-12
         .caja1.p-4
