@@ -33,7 +33,7 @@
     #t_6_3.titulo-segundo
       h2 6.3 #[em Post]
     
-    p.mb-4 En el siguiente video se presentan las características de una imagen para realizar un #[em post en Facebook]:
+    p.mb-4 En el siguiente video se presentan las características de una imagen para realizar un #[em post] en Facebook:
     figure
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/MvlNXgCzsQA?si=3YDVfJcBPPHg9s1q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

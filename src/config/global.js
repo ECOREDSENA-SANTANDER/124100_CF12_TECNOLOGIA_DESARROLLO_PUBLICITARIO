@@ -167,7 +167,7 @@ export default {
           {
             icono: '',
             numero: '7.1',
-            titulo: '<em>Gif</em> con ilustración ',
+            titulo: '<em>Gif</em> con ilustración X',
             hash: 't_7_1',
           },
           {
@@ -179,7 +179,7 @@ export default {
           {
             icono: '',
             numero: '7.3',
-            titulo: '<em>Post</em>',
+            titulo: '<em>Post</em> X',
             hash: 't_7_3',
           },
         ],
@@ -320,7 +320,7 @@ export default {
     {
       termino: 'Pixel',
       significado:
-        'es la unidad básica de una imagen digitalizada en pantalla. En otras palabras, son los puntos de color que conforman una imagen, mediante la constitución de una matriz de pixeles sucesivos.',
+        'es la unidad básica de una imagen digitalizada en pantalla. En otras palabras, son los puntos de color que conforman una imagen, mediante la constitución de una matriz de píxeles sucesivos.',
     },
     {
       termino: 'X',
@@ -431,7 +431,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

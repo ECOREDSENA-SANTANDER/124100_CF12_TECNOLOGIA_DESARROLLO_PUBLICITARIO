@@ -33,7 +33,7 @@
                         | Uso de teléfonos móviles, redes sociales e internet
                       figure
                         img(src='@/assets/curso/tema4/img02.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre uso de teléfonos móviles, redes sociales e internet.')        
-                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                        figcaption.mb-4 Nota. Tomado de https://branch.com.co/marketing-digital/situacion-digital-de-colombia-en-el-2024/
                     .col-lg-7
                       p.mb-4 A principios de 2024, alrededor del 82.5 % de la población de Colombia vivía en centros urbanos.
                       p.mb-4 El número de conexiones móviles celulares activas en el país es de 77.02 millones, cifra equivalente al 147.5 % de la población total.
@@ -46,7 +46,8 @@
                         | Dispositivos utilizados por los colombianos
                       figure
                         img(src='@/assets/curso/tema4/img03.svg', alt='La figura presenta graficación en círculos de  resultados de encuesta sobre  dispositivos utilizados por los colombianos.')
-                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                        figcaption.mb-4 Nota. Tomado de https://branch.com.co/marketing-digital/situacion-digital-de-colombia-en-el-2024/
+
                     .col-lg-7
                       p.mb-4 Este análisis se realizó en usuarios comprendidos entre los 16 a 64 años: 
                       ul.lista-ul
@@ -88,7 +89,8 @@
                         | Tiempo de uso de plataformas y dispositivos
                       figure
                         img(src='@/assets/curso/tema4/img04.svg', alt='La figura presenta graficación en círculos de resultados  de encuesta sobre tiempo de uso de plataformas y dispositivos')
-                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                        figcaption.mb-4 Nota. Tomado de https://branch.com.co/marketing-digital/situacion-digital-de-colombia-en-el-2024/
+
                     .col-lg-7
                       p Este análisis se realizó en usuarios comprendidos entre los 16 a 64 años:
                       ul.lista-ul
@@ -124,7 +126,8 @@
                         | Resumen del uso de internet
                       figure
                         img(src='@/assets/curso/tema4/img05.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen del uso de internet.')
-                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                        figcaption.mb-4 Nota. Tomado de https://branch.com.co/marketing-digital/situacion-digital-de-colombia-en-el-2024/
+
                     .col-lg-7
                       ul.lista-ul.mb-4
                         li.d-flex.mb-0 
@@ -145,7 +148,8 @@
                         | Velocidades de conexión a Internet
                       figure
                         img(src='@/assets/curso/tema4/img06.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre las velocidades de conexión a internet.')
-                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                        figcaption.mb-4 Nota. Tomado de https://branch.com.co/marketing-digital/situacion-digital-de-colombia-en-el-2024/
+
                     .col-lg-7
                       ul.lista-ul
                         li.d-flex.mb-0 
@@ -165,7 +169,8 @@
                         | Uso de las redes sociales
                       figure
                         img(src='@/assets/curso/tema4/img07.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen del uso de redes sociales')
-                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                        figcaption.mb-4 Nota. Tomado de https://branch.com.co/marketing-digital/situacion-digital-de-colombia-en-el-2024/
+
                     .col-lg-7
                       p.mb-4 El 70.3 % de la población total de Colombia es usuaria activa en redes sociales, es decir, 36.7 millones de personas. 
                       p.mb-4 Los datos publicados en las herramientas de planificación publicitaria indican que los usuarios mayores de 18 años utilizando redes sociales en Colombia a principios de 2024 equivalía al 94.1 % de la población total mayor de 18 años en ese momento.
@@ -178,7 +183,8 @@
                         | Comportamiento de usuarios de redes sociales
                       figure
                         img(src='@/assets/curso/tema4/img08.svg', alt='La figura presenta graficación en barras horizontales, de los resultados de encuesta sobre redes sociales más utilizadas.')
-                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                        figcaption.mb-4 Nota. Tomado de https://branch.com.co/marketing-digital/situacion-digital-de-colombia-en-el-2024/
+
                     .col-lg-7
                       p Este análisis se realizó en usuarios comprendidos entre los 16 a 64 años:
                       ul.lista-ul
@@ -220,7 +226,8 @@
                         | Audiencia en Facebook
                       figure
                         img(src='@/assets/curso/tema4/img09.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen de la audiencia de Facebook.')
-                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                        figcaption.mb-4 Nota. Tomado de https://branch.com.co/marketing-digital/situacion-digital-de-colombia-en-el-2024/
+
                     .col-lg-7
                       p.mb-4 Los datos publicados en los recursos publicitarios de Meta indican que:
                       ul.lista-ul
@@ -244,7 +251,8 @@
                         | Audiencia en Instagram
                       figure
                         img(src='@/assets/curso/tema4/img101.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre audiencia en Instagram.')
-                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                        figcaption.mb-4 Nota. Tomado de https://branch.com.co/marketing-digital/situacion-digital-de-colombia-en-el-2024/
+
                     .col-lg-7
                       p.mb-4 Los números publicados en las herramientas publicitarias de Meta indican que Instagram tenía:
                       ul.lista-ul
@@ -271,7 +279,8 @@
                         | Audiencia en  X (Twitter)
                       figure
                         img(src='@/assets/curso/tema4/img102.svg', alt='La figura presenta graficación en círculos de los resultados de encuesta sobre resumen de la audiencia en X.')
-                        figcaption.mb-4 Nota. Tomado de Branch Agencia.
+                        figcaption.mb-4 Nota. Tomado de https://branch.com.co/marketing-digital/situacion-digital-de-colombia-en-el-2024/
+
                     .col-lg-7
                       p.mb-4 Las cifras publicadas en los recursos publicitarios de X (Twitter) indican que:
                       ul.lista-ul
