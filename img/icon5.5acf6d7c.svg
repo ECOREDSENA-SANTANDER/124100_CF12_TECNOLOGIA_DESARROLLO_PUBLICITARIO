@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="63" viewBox="0 0 63 63">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_401532" data-name="Rectángulo 401532" width="63" height="63" transform="translate(1090 615)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_1098720" data-name="Enmascarar grupo 1098720" transform="translate(-1090 -615)" clip-path="url(#clip-path)">
+    <g id="gorjeo_1_" data-name="gorjeo (1)" transform="translate(1090 615)">
+      <path id="Trazado_874105" data-name="Trazado 874105" d="M33.607,30.424,47.784,50.7H41.966L30.4,34.156h0l-1.7-2.429L15.184,12.394H21L31.908,28Z"/>
+      <path id="Trazado_874106" data-name="Trazado 874106" d="M56.193,0H6.807A6.807,6.807,0,0,0,0,6.807V56.193A6.807,6.807,0,0,0,6.807,63H56.193A6.807,6.807,0,0,0,63,56.193V6.807A6.807,6.807,0,0,0,56.193,0ZM40.183,53.425,28.476,36.387,13.819,53.425H10.031L26.794,33.94,10.031,9.542H22.817L33.9,25.676,47.782,9.542H51.57L35.585,28.124h0l17.385,25.3Z"/>
+    </g>
+  </g>
+</svg>
